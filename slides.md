@@ -121,6 +121,12 @@ Entre théorie et pratique, les praticiens sont ainsi amenés à développer une
   * Bruno Bachimont : le document numérique comme remédiation d'une ressource numérisée
 
 
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="./img/ngramEditorialisation.png" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
+
+
 > L’idée centrale de cet article est que l’indexation fine du contenu rendue possible pour le numérique introduit un rapport nouveau au contenu et au document. Alors que selon l’indexation traditionnelle l’enjeu est de retrouver le ou les documents contenant l’information recherchée, l’indexation fine du contenu permet de ne retrouver que les segments concernés par la recherche d’information et de paramétrer l’usage de ces segments. (...) Devenant des ressources, ces segments sont remobilisés pour la production d’autres contenus dont ils constituent les composants. La finalité n’est plus de retrouver des documents, mais d’en produire de nouveaux, à l’aide des ressources retrouvées. On passe ainsi de l’indexation pour la recherche à l’indexation pour la publication. Comme cette dernière s’effectue selon des règles et des normes, on parlera plutôt d’éditorialisation, pour souligner le fait que les segments indexés sont enrôlés dans des processus éditoriaux en vue de nouvelles publications. (Bruno Bachimont, « Nouvelles tendances applicatives : de l’indexation à l’éditorialisation », in L’indexation multimédia, Paris, Hermès, 2007)
 
 <!-- .element: style="font-size:1.4rem" -->
