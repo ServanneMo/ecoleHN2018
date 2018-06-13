@@ -112,7 +112,7 @@ Enfin, l’éditorialisation témoigne d'une forte volonté de faire dialoguer l
 Entre théorie et pratique, les praticiens sont ainsi amenés à développer une approche critique de leurs outils et environnement, et de leur côté, les théoriciens doivent nécessairement ancrer leurs concepts sur des cas concrets et une connaissance technique de l’environnement numérique.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="./img/Framapad.png" data-background-size="contain"-->
+<!-- .slide: data-background-image="./img/ngramEditorialisation.png" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
 ### 2004-2007: apparition du terme
@@ -121,19 +121,13 @@ Entre théorie et pratique, les praticiens sont ainsi amenés à développer une
   * Bruno Bachimont : le document numérique comme remédiation d'une ressource numérisée
 
 
-> L’idée centrale de cet article est que l’indexation fine du contenu rendue possible pour le numérique introduit un rapport nouveau au contenu et au document. Alors que selon l’indexation traditionnelle l’enjeu est de retrouver le ou les documents contenant l’information recherchée, l’indexation fine du contenu permet de ne retrouver que les segments concernés par la recherche d’information et de paramétrer l’usage de ces segments. (...) Devenant des ressources, ces segments sont remobilisés pour la production d’autres contenus dont ils constituent les composants. La finalité n’est plus de retrouver des documents, mais d’en produire de nouveaux, à l’aide des ressources retrouvées. On passe ainsi de l’indexation pour la recherche à l’indexation pour la publication. Comme cette dernière s’effectue selon des règles et des normes, on parlera plutôt d’éditorialisation, pour souligner le fait que les segments indexés sont enrôlés dans des processus éditoriaux en vue de nouvelles publications.
+> L’idée centrale de cet article est que l’indexation fine du contenu rendue possible pour le numérique introduit un rapport nouveau au contenu et au document. Alors que selon l’indexation traditionnelle l’enjeu est de retrouver le ou les documents contenant l’information recherchée, l’indexation fine du contenu permet de ne retrouver que les segments concernés par la recherche d’information et de paramétrer l’usage de ces segments. (...) Devenant des ressources, ces segments sont remobilisés pour la production d’autres contenus dont ils constituent les composants. La finalité n’est plus de retrouver des documents, mais d’en produire de nouveaux, à l’aide des ressources retrouvées. On passe ainsi de l’indexation pour la recherche à l’indexation pour la publication. Comme cette dernière s’effectue selon des règles et des normes, on parlera plutôt d’éditorialisation, pour souligner le fait que les segments indexés sont enrôlés dans des processus éditoriaux en vue de nouvelles publications. (Bruno Bachimont, « Nouvelles tendances applicatives : de l’indexation à l’éditorialisation », in L’indexation multimédia, Paris, Hermès, 2007)
 
 <!-- .element: style="font-size:1.4rem" -->
 
 ===
 Pour Bachimont, l'éditorialisation est le processus par lequel une ressource est remédiée en un nouveau document numérique, impliquant la ré-interprétation de la ressource.
 
-À partir de 2008, le terme commence ainsi à s'institutionnaliser.
-
-Notamment avec le séminaire "Écritures numériques et éditorialisation", où l'éditorialisation se conçoit comme un espace de débat et de réfléxion - nous vous invitons à consulter les archives vidéo disponibles en ligne, pour vous faire une idée plus précise de ce chantier théorique et pratique.
-
-L'éditorialisation permet alors de penser un processus ouvert où auteurs, collectivités, plateformes, dynamiques pratiques sont mêlées et difficiles à retracer. pas curation, pas édition... éditorialisation
-pourtant ça produit une émergence de sens
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -144,6 +138,18 @@ pourtant ça produit une émergence de sens
   * Séminaire «Écritures numériques et éditorialisation» (Sens Public, IRI, Dicen-IDF, UdeM)
   * Des dizaines de publications sur le sujet
 
+> Davantage qu’un néologisme forgé pour marquer le passage au numérique, le concept d’éditorialisation vient répondre à des problématiques posées par ce nouveau modèle (numérique). Il est en effet essentiel de souligner, au terme de ce travail de définition, à quel point la notion d’éditorialisation peut changer notre manière d’habiter l’espace numérique. Parce qu’elle en souligne la structure, l’éditorialisation nous donne la possibilité de comprendre l’espace numérique et de comprendre le sens de nos actions dans cet espace : elle nous révèle les rapports entre les objets, les dynamiques, les forces, les dispositifs de pouvoir, les sources d’autorité.
+
+<!-- .element: style="font-size:1.4rem" -->
+
+===
+À partir de 2008, le terme commence ainsi à s'institutionnaliser.
+
+Notamment avec le séminaire "Écritures numériques et éditorialisation", où l'éditorialisation se conçoit comme un espace de débat et de réfléxion - nous vous invitons à consulter les archives vidéo disponibles en ligne, pour vous faire une idée plus précise de ce chantier théorique et pratique.
+
+L'éditorialisation permet alors de penser un processus ouvert où auteurs, collectivités, plateformes, dynamiques pratiques sont mêlées et difficiles à retracer. pas curation, pas édition... éditorialisation
+pourtant ça produit une émergence de sens
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -151,19 +157,10 @@ pourtant ça produit une émergence de sens
 <!-- .slide: data-background-image="img/numerique.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
-### Enjeux et fonctions de l'éditorialisation
+### Enjeux de l'éditorialisation
+
 Comment garantir la production, la circulation et la légitimation de la littérature à l'ère numérique ?
 
-===
-Au regard de ce balisage préliminaire, appliquée à la littérature ou aux humanités numériques littéraires, l'enjeu de l'éditorialisation est le suivant : Comment garantir la production, la circulation et la légitimation de la littérature à l'ère numérique ?
-
-Mine de rien, la qusetion que l'on se pose est assez ambitieuse: au fond, il ne s'agit rien de moins que d'interroger le statut ontologique de la littérature, à l'heure où le numérique ne se pense plus seulement en termes d'outils mais bien en termes de culture. <!-- ok là c'est simpliste mais j'essaire de transitionner-->
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/rhizome.jpg" -->
-<!-- .slide: class="hover"-->
-
-### Portée de l'éditorialisation
 
 >«La différence entre édition et éditorialisation n'est pas qu'une différence d'outils. Elle suggère plutôt une différence culturelle : l'éditorialisation n'est pas notre façon de produire du savoir en utilisant des outils numériques ; c'est notre façon de produire du savoir à l'époque du numérique, ou mieux, dans notre société numérique.»
 >
@@ -171,42 +168,12 @@ Mine de rien, la qusetion que l'on se pose est assez ambitieuse: au fond, il ne 
 
 <!-- .element: style="font-size:1.8rem; text-align:justify" -->
 
-===
-<!-- du coup ici on repart sur le savoir : faudrait juste bien soigner notre transition -->
-
-[CITER]
-
-Cette distinction entre édition et éditorialisation opérée par MVR, l'amène (et nous amène) à proposer une définition du concept dont les conséquences ontologiques sont très fortes. L'éditorialisation comprend en effet une dimension performative décisive, qui se traduit notamment par une pensée spatiale du fait numérique.
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/10458166_10153074634228797_4994304635406227180_n.jpg" -->
-<!-- .slide: class="hover"-->
-
-
-### Production d'espace
-
->«L'éditorialisation désigne l'ensemble des dynamiques qui produisent et structurent l'espace numérique. Ces dynamiques sont les interactions des actions individuelles et collectives avec un environnement numérique particulier.»
->
-> Vitali-Rosati, _Qu'est-ce que l'éditorialisation?_, Sens public 2016
-
-<!-- .element: style="font-size:1.8rem; text-align:justify" -->
 
 ===
-[CITER]
+Au regard de ce balisage préliminaire, appliquée à la littérature ou aux humanités numériques littéraires, l'enjeu de l'éditorialisation est le suivant : Comment garantir la production, la circulation et la légitimation de la littérature à l'ère numérique ?
 
-L'éditorialisation, ainsi, produit l'espace, et donc produit le réel.
-C'est là que le concept peut apporter beaucoup à la réflexion littéraire, en réinvestissant notamment une problématique qui lui est inhérente: celle de la mimésis, de la distinction entre imaginaire-réel, celle de son statut ontologique, de sa fonction et de son pouvoir effectif.
+Mine de rien, la qusetion que l'on se pose est assez ambitieuse: au fond, il ne s'agit rien de moins que d'interroger le statut ontologique de la littérature, à l'heure où le numérique ne se pense plus seulement en termes d'outils mais bien en termes de culture. <!-- ok là c'est simpliste mais j'essaire de transitionner-->
 
-
-<!-- préciser peut-être un peu ce point-->
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/numerique.jpg" data-background-size="contain"-->
-<!-- .slide: class="hover"-->
-
-### Enjeux et fonctions de l'éditorialisation
-Comment garantir la production, la circulation et la légitimation du savoir à l'ère numérique ?
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -223,13 +190,28 @@ Comment garantir la production, la circulation et la légitimation du savoir à 
 - collective
 
 ===
+
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/autorite.JPG" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/rhizome.jpg" -->
 <!-- .slide: class="hover"-->
 
-### Éditorialisation: définition philosophico-pratique
+### Portée de l'éditorialisation (définition philosophico-pratique)
 
->L'éditorialisation désigne l'ensemble des dynamiques qui produisent et structurent l'espace numérique. Ces dynamiques sont les interactions des actions individuelles et collectives avec un environnement numérique particulier.
+
+>«L'éditorialisation désigne l'ensemble des dynamiques qui produisent et structurent l'espace numérique. Ces dynamiques sont les interactions des actions individuelles et collectives avec un environnement numérique particulier.»
+>
+> Vitali-Rosati, _Qu'est-ce que l'éditorialisation?_, Sens public 2016
+
+<!-- .element: style="font-size:1.8rem; text-align:justify" -->
+
+
+===
+
+[CITER]
+
+Cette distinction entre édition et éditorialisation opérée par MVR, l'amène (et nous amène) à proposer une définition du concept dont les conséquences ontologiques sont très fortes. L'éditorialisation comprend en effet une dimension performative décisive, qui se traduit notamment par une pensée spatiale du fait numérique.
+
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -246,10 +228,11 @@ Comment garantir la production, la circulation et la légitimation du savoir à 
 
 
 ===
-<!--(anciennes notes)
-Nous venons de présenter une théorie très générale de l'éditorialisation. Mais que se passe-t-il dans un contexte littéraire ?-->
 
-[CITER]
+
+L'éditorialisation, ainsi, produit l'espace, et donc produit le réel.
+C'est là que le concept peut apporter beaucoup à la réflexion littéraire, en réinvestissant notamment une problématique qui lui est inhérente: celle de la mimésis, de la distinction entre imaginaire-réel, celle de son statut ontologique, de sa fonction et de son pouvoir effectif.
+
 
 Attention : cet article ne prétend nullement que le numérique réforme le statut ontologique de la littérature. Plus exactement, il réinvestit des problématiques littéraires très anciennes (déjà formulées chez Platon et Aristote) et met en lumière ce brouillage qui a toujours existé entre imaginaire et réel.
 
