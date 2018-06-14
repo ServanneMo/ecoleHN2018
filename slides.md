@@ -122,7 +122,7 @@ Entre théorie et pratique, les praticiens sont ainsi amenés à développer une
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-<!-- .slide: data-background-image="./img/ngramEditorialisation.png" data-background-size="contain"-->
+<!-- .slide: data-background-image="./img/PostIt.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
 
@@ -140,7 +140,7 @@ EN changeant de milieu, le document est amené à devenir autre.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-<!-- .slide: data-background-image="img/numerique.jpg" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/Framapad.png" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
 2008: institutionnalisation du concept
@@ -160,7 +160,7 @@ L'éditorialisation permet alors de penser un processus ouvert où auteurs, coll
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 
-<!-- .slide: data-background-image="img/numerique.jpg" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/inventaireAtom.png" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
 > Davantage qu’un néologisme forgé pour marquer le passage au numérique, le concept d’éditorialisation vient répondre à des problématiques posées par ce nouveau modèle (numérique). Il est en effet essentiel de souligner (...) à quel point la notion d’éditorialisation peut changer notre manière d’habiter l’espace numérique. Parce qu’elle en souligne la structure, l’éditorialisation nous donne la possibilité de comprendre l’espace numérique et de comprendre le sens de nos actions dans cet espace : elle nous révèle les rapports entre les objets, les dynamiques, les forces, les dispositifs de pouvoir, les sources d’autorité.
@@ -173,7 +173,7 @@ L'éditorialisation permet alors de penser un processus ouvert où auteurs, coll
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-<!-- .slide: data-background-image="img/numerique.jpg" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/defRestreinte.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
 ### Définition restreinte
@@ -193,14 +193,10 @@ Si l’éditorialisation = ce que « devient l’édition sous l’influence d
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-
-<!-- .slide: data-background-image="img/numerique.jpg" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/defRestreinte.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
-
-> l'éditorialisation façonne et structure les contenus sans se limiter à un contexte fermé et bien défini (comme une revue) ou à un groupe prédéfini d'individus (comme les éditeurs). Elle implique une ouverture de l'espace (plusieurs plateformes) et du temps (plusieurs contributions différentes, à des moments distincts). Cette ouverture est l'une des différences principales entre curation et éditorialisation et elle est aussi ce qui différencie l'éditorialisation de l'édition traditionnelle. L'ouverture de l'éditorialisation par rapport à l'édition papier détermine une certaine perte de contrôle de l'écrivain comme de l'éditeur sur le contenu. En effet, tous deux ne sont plus que des acteurs parmi d'autres du processus éditorial, qui s'élargit considérablement.
-
+> L'éditorialisation façonne et structure les contenus sans se limiter à un contexte fermé et bien défini (comme une revue) ou à un groupe prédéfini d'individus (comme les éditeurs). Elle implique une ouverture de l'espace (plusieurs plateformes) et du temps (plusieurs contributions différentes, à des moments distincts). Cette ouverture est l'une des différences principales entre curation et éditorialisation et elle est aussi ce qui différencie l'éditorialisation de l'édition traditionnelle. L'ouverture de l'éditorialisation par rapport à l'édition papier détermine une certaine perte de contrôle de l'écrivain comme de l'éditeur sur le contenu. En effet, tous deux ne sont plus que des acteurs parmi d'autres du processus éditorial, qui s'élargit considérablement.
 >
 > Vitali-Rosati, _Qu'est-ce que l'éditorialisation?_, Sens public 2016
 
@@ -213,13 +209,13 @@ L’ouverture dans le temps et dans l’espace est devenue le principe fondateur
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/numerique.jpg" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/defLarge.jpeg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
 
 ### 2. Définition large
 
-> dans un monde numérique connecté, exister signifie être éditorialisé. En effet, dans l'espace numérique, un objet doit être connecté et mis en relation avec les autres objets pour exister. Par exemple, pour qu'un restaurant existe, il doit se trouver sur TripAdvisor, sur GoogleMaps, ou sur une autre plateforme qui spécifie sa relation avec d'autres restaurants, un territoire, etc., tout en le rendant visible et compréhensible. Pour qu'une personne existe dans l'espace numérique, elle doit avoir un profil sur Facebook, sur Twitter, sur LinkedIn ou sur une autre plateforme qui puisse l'identifier et la rendre visible. L'éditorialisation devient donc une condition d'existence. Or, sur la base de cette idée, éditorialiser ne signifie pas seulement produire des contenus, mais aussi produire la réalité elle-même. Selon cette définition très large, l'éditorialisation désigne l'ensemble des formes collectives de négociation du réel. En d'autres termes, l'éditorialisation est l'ensemble de nos pratiques sociales qui nous permet de comprendre, d'organiser et d'interpréter le monde.
+> Dans un monde numérique connecté, exister signifie être éditorialisé. En effet, dans l'espace numérique, un objet doit être connecté et mis en relation avec les autres objets pour exister. (...) Pour qu'une personne existe dans l'espace numérique, elle doit avoir un profil sur Facebook, sur Twitter, sur LinkedIn ou sur une autre plateforme qui puisse l'identifier et la rendre visible. L'éditorialisation devient donc une condition d'existence. Or, sur la base de cette idée, éditorialiser ne signifie pas seulement produire des contenus, mais aussi produire la réalité elle-même. Selon cette définition très large, l'éditorialisation désigne l'ensemble des formes collectives de négociation du réel.
 >
 > Vitali-Rosati, _Qu'est-ce que l'éditorialisation?_, Sens public 2016
 
@@ -240,10 +236,10 @@ Le problème de cette définition, c’est quelle est tellement large et essenti
 <!-- .slide: data-background-image="img/rhizome.jpg" -->
 <!-- .slide: class="hover"-->
 
-### Portée de l'éditorialisation (définition philosophico-pratique)
+### 3. Définition philosophico-pratique
 
 
->«L'éditorialisation désigne l'ensemble des dynamiques qui produisent et structurent l'espace numérique. Ces dynamiques sont les interactions des actions individuelles et collectives avec un environnement numérique particulier.»
+> L'éditorialisation désigne l'ensemble des dynamiques qui produisent et structurent l'espace numérique. Ces dynamiques sont les interactions des actions individuelles et collectives avec un environnement numérique particulier.
 >
 > Vitali-Rosati, _Qu'est-ce que l'éditorialisation?_, Sens public 2016
 
@@ -254,11 +250,41 @@ Le problème de cette définition, c’est quelle est tellement large et essenti
 
 [CITER]
 
-Cette distinction entre édition et éditorialisation opérée par MVR, l'amène (et nous amène) à proposer une définition du concept dont les conséquences ontologiques sont très fortes. L'éditorialisation comprend en effet une dimension performative décisive, qui se traduit notamment par une pensée spatiale du fait numérique.
 
+Cette définition reste un peu floue, en fait on peut la préciser en prenant en compte trois aspects implicites de l'éditorialisation : un aspect technologique, un aspect culturel et un aspect pratique.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="./img/mashupInstin.png" -->
+<!-- .slide: data-background-image="img/twitterEdito.png" -->
+<!-- .slide: class="hover"-->
+
+### 3 aspects implicites de l'éditorialisation (le cas de Twitter):
+* Technologique : aspect prescriptif de l'environnement technologique (Twitter et ses 140/280 caractères)
+* Culturel : Twitter n'a pas inventé la forme courte (maxime, Haiku, poésie...)
+* Pratique : le pouvoir des usagers
+* Bref, une dynamique stygmergique
+
+===
+
+* Technologie :
+Le terme éditorialisation a été créé en partie pour prendre en compte l'impact des technologies sur la production des contenus.
+
+TWITTER : on peut faire de la littérature sur Twitter en 140#280 caractères !
+
+> L'environnement numérique est prescriptif, car il détermine la forme des contenus qu'il héberge. La dimension technologique est donc fondamentale pour l'édition, mais en même temps, on ne peut pas réduire l'éditorialisation à ce seul aspect.
+
+* Culture
+Mais tout comme il faut prendre en compte l'impact des technologies sur la production des contenus - il faut en retour reconnaître l’impact de nos habitudes culturelles et de nos pratiques sur les technologies.
+La forme elliptique n’a pas été inventée par Twitter !!!
+// question de la contrainte = poésie.
+
+* Pratiques
+Le troisième et dernier aspect de l'éditorialisation – son aspect pratique – nous amène du côté des pratiques, sans lesquelles les structures culturelle et technologique ne pourraient exister.
+> L'action de mettre un # avant un mot dans l'environnement Twitter fait de celui-ci un mot-clé. À l'origine, cette action n'avait pas été prévue par la plateforme, car Twitter n'avait pas été conçu pour gérer des mots-clés. Puis, un premier usager a commencé à utiliser le #, bientôt suivi d'un groupe de personnes, et cette action est devenue une pratique – pratique qui a obligé Twitter à adapter sa plateforme, pour prendre en compte les mots-clés – que nous appelons aujourd'hui des hashtags.
+
+On a souvent tendance à craindre le technodéterminisme. Il faut comprendre le processus dans un cercle vertueux, bcp plus complexe qu’on ne le laisse penser.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="./img/twitterEdito.png" -->
 <!-- .slide: class="hover"-->
 
 ### Caractéristiques de l'éditorialisation
@@ -275,7 +301,7 @@ Cette distinction entre édition et éditorialisation opérée par MVR, l'amène
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-<!-- .slide: data-background-image="img/numerique.jpg" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/rhizome.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
 ### Portée de l'éditorialisation
@@ -290,25 +316,41 @@ Cette distinction entre édition et éditorialisation opérée par MVR, l'amène
 ===
 Au regard de ce balisage préliminaire, appliquée à la littérature ou aux humanités numériques littéraires, l'enjeu de l'éditorialisation est le suivant : Comment garantir la production, la circulation et la légitimation de la littérature à l'ère numérique ?
 
-Mine de rien, la qusetion que l'on se pose est assez ambitieuse: au fond, il ne s'agit rien de moins que d'interroger le statut ontologique de la littérature, à l'heure où le numérique ne se pense plus seulement en termes d'outils mais bien en termes de culture. <!-- ok là c'est simpliste mais j'essaie de transitionner-->
+Mine de rien, la question que l'on se pose est assez ambitieuse: au fond, il ne s'agit rien de moins que d'interroger le statut ontologique de la littérature, à l'heure où le numérique ne se pense plus seulement en termes d'outils mais bien en termes de culture. <!-- ok là c'est simpliste mais j'essaie de transitionner-->
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-<!-- .slide: data-background-image="img/numerique.jpg" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/rhizome.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
 ### Enjeux de l'éditorialisation
 
 * Comment garantir la production, la circulation et la légitimation des contenus à l'ère numérique ?
-* Oui, mais tous les contenus (texuels, visuels, sonores... savants, littéraires, etc.) peuvent-ils être conçus et traités de la même manière ?
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+<!-- .slide: data-background-image="img/rhizome.jpg" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
+
+### Une objection ?
+
+* Tous les contenus (texuels, visuels, sonores... savants, littéraires, etc.) peuvent-ils être conçus et traités de la même manière ?
+
 <!-- .slide: data-background-image="./img/mashupInstin.png" -->
 <!-- .slide: class="hover"-->
 
-### Editorialisation et littérature
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+<!-- .slide: data-background-image="img/portier2.png" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
+
+
+
+### Editorialisation et littérature : de nouvelles frontières
 
 >«Le fait de penser le geste de production des contenus numériques comme un geste de production de l’espace nous permet justement d’aller au-delà de l’opposition imaginaire/réel. Les pratiques, les discours et les technologies impliquées dans un geste d’éditorialisation ont comme résultat l’agencement d’un espace tout à fait réel, à savoir l’espace dans lequel nous vivons.»
 >
@@ -334,16 +376,16 @@ Si, tel que nous en avons la conviction, la littérature contribue également à
 <!-- .slide: data-background-image="img/françois-Bon-Lovecraft.jpg" -->
 
 
-## François Bon dans son chantier : la littérature à l'ère numérique
+## François Bon dans son chantier&nbsp;: la littérature à l'ère numérique
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/Fleurs_du_mal.jpg" -->
 <!-- .slide: class="hover"-->
 
-### "Baudelaire n'a jamais écrit les _Fleurs du mal_"
+### "Baudelaire n'a jamais écrit <br>les _Fleurs du mal_"
 * Qu'est-ce qu'une "oeuvre" littéraire ?
 * Discussion des enjeux de clôture et de stabilisation
-* Le livre-nombreux
+* Le livre-nombreux : vers une nouvelle conception du texte et de la littérature
 
 ===
 
@@ -380,46 +422,114 @@ Tout cela pour dire, en fin de compte, que le public n’a pu lire une version �
 ### Le livre-nombreux
 
 > Peut-être “Les Fleurs du mal” est-il le livre le plus nombreux dans ma bibliothèque. Paradoxe de l’expression, mais comment dire autrement qu’il est présent dans la pièce où je travaille en tant d’éditions successives ou critiques, ou poche – ou ultra-poche… ?
-
 >
-
 > François Bon _Après le livre_, chapitre "Baudelaire n'a jamais écrit les Fleurs du mal" (2011)
+
+<!-- .element: style="font-size:1.8rem; text-align:justify" -->
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/xxxxxx" -->
+<!-- .slide: data-background-image="img/fragmentsDuDedans.png" -->
+<!-- .slide: class="hover"-->
+
 
 ### Le Chantier littéraire de _Fragments du dedans_
 
+> Tout chantier d’écriture s’insère d’abord sur le site. Et puis vient un moment où le livre prend le relais, exige d’autres outils, d’autres reprises et approches.
+>
+> François Bon (Le Tiers livre)
+
+<!-- .element: style="font-size:1.8rem; text-align:justify" -->
+
+===
+
+Cette écriture-performance, François Bon l’a mise en pratique avec Fragments du dedans - un livre publié chez Grasset, mais dont le “chantier” a d’abord été publié en ligne.
+Pour François Bon en effet, “tout chantier d’écriture s’insère d’abord sur le site. Et puis vient un moment où le livre prend le relais, exige d’autres outils, d’autres reprises et approches.” Le web-chantier ne se conçoit donc pas comme un “concurrent” du livre, mais comme une expérience alternative, autonome, qui servira de pierre d’assise à la constitution de celui-ci. Ce que François Bon publie en ligne, c’est bien cette performance qu’est l’écriture - “non pas le livre, mais ce pré-travail sur le web, l’étape embryonnaire aux 2/3 de la constitution du livre, en l’état”.
+
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/xxxxxx" -->
+<!-- .slide: data-background-image="img/fragmentsDuDedans.png" -->
+<!-- .slide: class="hover"-->
 
 ### L'écriture-performance
 
+>“Écrire n’est pas un scénario, un plan, mais comment la matière qu’on affronte sera subversion de ce scénario ou de ce plan, de l’intuition obscure qu’on en a. Le caractère nécessaire de la logique interne d’une oeuvre s’exprimant donc plutôt par l’écart qu’elle impose aux intuitions qui en sont l’origine. Le site Internet pourrait bien, alors, comme le soulignent ses détracteur, se révéler dangereux pour les grandes constructions de l’esprit : il rend inopérante la contrainte d’écart.”
+>
+> François Bon (Le Tiers livre)
+
+
+<!-- .element: style="font-size:1.8rem; text-align:justify" -->
+
+
+===
+
+Évidemment, il n’est pas toujours aisé pour les éditeurs de comprendre ce genre de démarche… Beaucoup d’entre eux demandent en effet aux écrivains d’effacer les traces des chantiers en ligne, de peur que les lecteurs ne voient pas bien l’intérêt d’acheter un livre dont une part du contenu est disponible gratuitement sur le web. C’est bien mal comprendre ce qui se joue fondamentalement ici : car pour le lecteur, justement, ce sont deux expériences de lecture bien différentes ! L’une, sur le web, consiste à suivre une performance d’écriture et un récit discontinu - il faut en effet patienter entre les publications, et le sens du texte semble toujours en suspens. L’autre expérience, à travers le livre, consiste à lire un récit linéaire, dont la clôture balise par ailleurs un horizon d’attente bien différent. Comme avec Les Fleurs du mal de Baudelaire, le texte se révèle donc “nombreux” depuis ses racines en ligne jusqu’au livre imprimé. Et le dispositif éditorial, ici, ne doit pas être pensé du point de vue des contenus, mais bien depuis celui de l’expérience de lecture.
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/xxxxxx" -->
+<!-- .slide: data-background-image="img/limite01.png" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
 
-### Sans-_Limite_
+
+### Le cas _Limite_ de François Bon
+* Un chantier inversé
+* La réouverture du livre
+
+===
+
+À première vue, ces chantiers littéraires en ligne pourraient passer pour une étape transitoire vers l’imprimé, dont l’autorité et la stabilité resteraient indétrônable. Le bon vieux livre papier viendrait clore un chantier numérique dont il serait la finalité. Ce serait là bien mal connaître François Bon qui, en 2010, s’est lancé dans un travail un peu fou de récriture en ligne de son second roman, Limite. Travail “fou” car François Bon à dû retaper tout son texte à la main, puisqu’il n’existait pas de copie originale numérique de cet ouvrage paru en 1985 chez Minuit. En d’autres termes, l’auteur a procédé à contre-courant de ce que propose le modèle éditorial traditionnel, en “réouvrant” le chantier d’un livre publié 25 ans plus tôt…
+Écrit dans les années 1980, alors que François Bon était encore un “jeune” auteur méconnu, Limite était épuisé depuis déjà bien longtemps et l’éditeur, Minuit, n’avait pas le projet de le rééditer.
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/xxxxxx" -->
+<!-- .slide: data-background-image="img/limite02.png" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
 
 ### Republication
+* Un livre "recopié" à la main pour être numérisé
+* Des modifications mineures (syntaxe, vocabulaire)
+
+===
+En accord avec la maison d’édition, François Bon a donc décidé de rendre disponible à nouveau cet ouvrage, en le recopiant et le republiant lui-même sur son site web, le Tiers livre. Cette réédition numérique permet d’apporter quelques modifications mineures au texte : de l’aveu même de l’auteur, “quelques phrases ont changé, peut-être un ou deux passages ont-ils sauté, quelques adjectifs ont été virés à la soufflette” (Bon, Tiers livre).
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/xxxxxx" -->
+<!-- .slide: data-background-image="img/limite02.png" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
 
-### Remédiation
+
+### Remédiation (du papier au numérique)
+* De la forme linéaire à la forme fragmentée et hypertextuelle
+* Transformation du roman en feuilleton
+* Nouvelle expérience de lecture
+
+===
+Par ailleurs, en choisissant de ne pas produire un livre numérique (epub), mais une série de posts de blogue publiés à intervalles réguliers, François Bon transforme le roman Limite en feuilleton : le texte est fragmenté, soit découpé en 12 parties. Il se transforme alors en hypertexte, là où la version imprimée privilégiait une forme linéaire.
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/xxxxxx" -->
+<!-- .slide: data-background-image="img/limite02.png" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
 
 ### Rétro-médiation
+* Augmentation du récit original (création d'un méta-récit)
+* Retour "à la forme initiale, en amont de la première publication”
+* _Virtualisation_ du texte : de l’édition à l’éditorialisation, revenir aux origines du geste créatif
+
+===
+
+Mais surtout, au fur et à mesure qu’il se prête à cet exercice de dactylographie à première vue bien mécanique, l’écrivain redécouvre son propre texte et entame la construction d’un métarécit à caractère autobiographique, établissant des ponts entre la fiction (Limite) et un récit rétrospectif sur son parcours d’écrivain.
+En republiant en ligne Limite, François Bon réouvre donc le chantier du roman, pour en créer une version augmentée qui explore les potentialités du texte au-delà de toute exigence de stabilité et de clôture. Dans sa forme imprimée, Limite, tel que publié chez Minuit, aura été un moment du texte - mais pas le seul !
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/xxxxxx" -->
+<!-- .slide: data-background-image="img/bon.jpg" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
 
+### Conclusion
+* Le livre imprimé = un moment du texte
+* Sur le web = déplacement de l'oeuvre vers l'écriture (performance)
+* Éditorialiser = perte de contrôle des instances traditionnelles
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/generalinstinVitrail.jpg" -->
@@ -526,6 +636,40 @@ Nous tenons tout particulièrement à cette expression qui évoque l'un de nos p
 Instin est un fantôme, performé par le récit sans cesse réitéré de sa disparition, qui lui donne finalement un supplément d'existence.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/rosecompas_grand.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### De Hinstin à Instin
+
+* Une contrainte créative
+* Un projet collectif
+* Un personnage de fiction
+* Un profil sur le web
+* Une figure auctoriale
+
+source image: _La place du mort_ sur remue.net
+
+<!-- .element: class="source" -->
+
+===
+Instin repose en fait sur un dispositif littéraire bien connu: l'écriture à contrainte.
+
+À propos de la genèse d'Instin au squat de la Grange-aux-Belles, Patrick Chatelier témoigne : « J’ai montré les photos, j’ai un peu personnifié le général et je me suis aperçu que les artistes présents s’en emparaient pour en faire leur propre chose. C’est là que c’est devenu collectif. ».
+
+C'est à ce moment aussi que Hinstin perd son « H qui le faisait humain historique » pour opérer ce passage vers la fiction et devenir personnage-entité. Tout le monde peut alors s’approprier cet « ancêtre universel » pour lui inventer une histoire et lui donner une seconde vie.
+
+Comme toute contrainte, Instin finira par se dérober à lui-même, en devenant totalement polymorphe - sa fonction et son statut littéraires en constantante évolution, au gré de nombreuses appropriations.
+
+Pour preuve, assez récemment, Instin est devenu une figure auctoriale : son nom trône en couverture de 3 ouvrages (une anthologie, un récit de fiction, une traduction d'edgar Lee Masters). Sur les réseaux sociaux, il compte ses propres profils et parle en son nom. Au cours de ce processus d'éditorialisation, Instin s'est donc aussi autorisé.
+
+Instin incarne ainsi des tendances ou des traits saillants des nouvelles pratiques d'écriture à l'ère numérique :
+- une forte tendance à l'appropriation, et son corollaire :
+- une ouverture du concept d'autorité
+- un déplacement - ou en tout cas, une revalorisation d'une écriture qui se déploie hors du livre.
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/oeil.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
@@ -542,7 +686,7 @@ D'où nos deux problématiques majeures :
 
 Une chose est sûre : il faut déjà croire un peu aux fantômes pour s'occuper de cet objet littéraire - dont nous avons entrepris l'impossible archivage.
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/sp38.png" -->
 
 ## Instin Studies : l'éditorialisation comme méthodologie littéraire
@@ -667,8 +811,12 @@ Malgré tout, dans ces premiers pas de collections de textes présent sur le web
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/instin_1_redimensionnee-2.jpg" data-background-size="cover" -->
+<!-- .slide: class="hover"-->
 
-### MarGInalité
+### Mar[GI]nalité
+* Comment collecter, étudier, conserver, une littérature des marges ?
+* Inadéquation des outils actuels (indexation, conservation, stockage)
+
 
 source image: _Il est passé par ici. Il repassera par là. (1)_ sur Remue.net
 
@@ -705,34 +853,83 @@ L'éditorialisation de l'archive nous inscrit dans une double dynamique :
 
 Instin travaille notre archive, comme l'archive travaille Instin, et ces deux performativités produisent et sont la production de deux espaces distincts.
 
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/1-12.jpg" data-background-size="contain" -->
 
-### INSTIN
+<!-- .slide: data-background-image="./img/Composition3Graphes_large.png" data-background-size="cover" -->
 
-<!-- .element: style="width:45%; float:left; display:in-line-block" -->
 
-### INSTIN STUDIES
-
-<!-- .element: style="width:45%; float:left; display:in-line-block; margin-left:10%" -->
-
-source image: _Un homme parle –Autopsie de l’esprit_ sur remue.net
-
-<!-- .element: class="source" -->
-
+### Résultats préliminaires
 
 ===
 
-On le voit, les Instin Studies se positionnent comme en miroir d'Instin, et ce à plusieurs niveaux :
+Ce que suggèrent nos premières fouilles, nos premières visualisations d'un corpus encore incomplet, c'est que les _manifestations_ d'instin produisent ensemble un archipel dont les contours sont finalement relativement identifiables. Il existe bien une forme, ou des formes, un espace produit, éditorialisé qui fait dispositif.
 
-* il le duplique, s'en fait l'écho
-* il le déforme, l'encode
-* il l'étend, ou le poursuit, perpétue sa dynamique
-* il produit des vues : à chaque requête sur les données correspond un angle, un point de vue, révélant une nouvelle facette
-* le processus de l'un agit sur le processus de l'autre, tels deux engrenages, dont peut-être les forces s'inverseront ?
-* de l'anthologie à la collection
-* de la marge à l'institutionnalisation
-* pourtant, la question demeure : quel espace produit-on ? et quel espace résulte d'instin ?
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="./img/Composition3Graphes_large.png" data-background-size="cover" -->
+<!--  .slide: class="hover"-->
+
+### Une oeuvre éditorialisée/able... mais circonscrite et quantifiable
+* un ensemble ouvert et dynamique, mais fini
+* centralité de certains acteurs et plateformes
+
+===
+D'abord, notre travail d'archivage nous a progressivement amenés à cerner le corpus en un ensemble, certes ouvert, mais fini. Avec un nombre d’auteurs, de contributions, de plateformes maîtrisables. Elle nous montre par ailleurs que c'est un corpus malgré tout organisé et éditorialisé.
+
+En fait, ce que nous a montré nos premiers pas dans la constitution de l'archive GI, c'est qu'il existe malgré tout des noeuds de cristallisation, des acteurs à la centralité plus ou moins prégnante, des formes, elles-mêmes investies de leur dispositif.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/20170509_2_white.png) <!-- .element: width="60%" -->
+
+_Spatialisation (Fruchterman Reingold) et Centralité de vecteur propre : des noeuds de cristallisation clairement identifiables_  <!-- .element: style="font-size: 1.4rem" -->
+
+===
+C'est notamment ce que nous révèle cette première spatialisation du réseau de documents déjà référencés dans l'archive, calculée à partir des liens hypertexte inter-documents.
+
+L'algorithme de spatialisation choisi est volontairement neutre, de manière à révéler des relations, des lignes de forces, mais sans trop les caractériser : cela nous permet de garder un lien particulier avec les sources et poursuivre une lecture rapprochée.
+
+Mais ce qu'elle nous montre très clairement, c'est que le corpus s'agence, se partitionne.
+
+Ici, le calcul de centralité confirme qu'il existe dans ce corpus des hubs, des textes plus importants que les autres, davantage cités que les autres, ...
+
+(centralité de vecteur propre (eigen vector))
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+
+![](img/20170509_3_remue1524.png) <!-- .element: width="50%" -->
+![](img/item-002_crop.png) <!-- .element: width="40%" -->
+
+_La campagne d’Égypte_, Patrice Chatelier (2006) : des textes-"hubs", qui centralisent des cristaux narratifs
+
+<!-- .element: style="font-size: 1.4rem" -->
+
+===
+comme c'est le cas de La Campagne d'Egypte de Patrice Chatelier, un des premiers textes du GI sur remue.net.
+
+Pour le moment, les résultats sont biaisés par le fait que notre première approche pour la collection du corpus (pour les 30 premiers items) a été de procéder par propagation à partir des liens hypertextes, et que donc nécessairement, les premiers items collectés sont particulièrement connectés entre eux.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+![](img/20170509_3_white.png) <!-- .element: width="60%" -->
+
+_Modularité : des micro-communautés identifiables_  <!-- .element: style="font-size: 1.4rem" -->
+
+===
+Ici, le calcul de modularité nous donne une partition en une dizaine de "communautés", ce qu'on n'interprétera pas à ce stade à cause d'un corpus incomplet, mais cela vient ...
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/reveGeneral.png" -->
+
+### Alors... qu'est-ce que, et pourquoi Instin ?
+
+===
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -740,6 +937,8 @@ On le voit, les Instin Studies se positionnent comme en miroir d'Instin, et ce �
 <!-- .slide: data-background-image="img/00-schema1-01floucinetique-2.jpg" data-background-size="contain" -->
 
 ## GI : cas d'école d'une littérature éditorialisée
+
+* Instin est une forme d'éditorialisation dont l'espace de publication est un espace public
 
 source image: _Instin, plans de coupe, vues générales._ sur remue.net
 
@@ -749,39 +948,7 @@ source image: _Instin, plans de coupe, vues générales._ sur remue.net
 Reprenons donc la question ontologique initiale: qu'est-ce qu'Instin ? Ce nous a d'abord frappé - et ce qui a d'ailleurs guidé notre collecte - c'est l'incroyable pouvoir de propagation d'Instin, qui se répand comme une traînée de poudre. Pourquoi Instin fonctionne-t-il aussi bien - pourquoi fédère-t-il autant - comment a-t-il réussi à soulever une telle armée de contributeurs ?
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/rosecompas_grand.jpg" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
-
-### De Hinstin à Instin
-
-* Une contrainte créative
-* Un projet collectif
-* Un personnage de fiction
-* Un profil sur le web
-* Une figure auctoriale
-
-source image: _La place du mort_ sur remue.net
-
-<!-- .element: class="source" -->
-
-===
-Première réponse: le critère d'appropriabilité, qui repose en fait sur un dispositif littéraire bien connu: l'écriture à contrainte.
-
-À propos de la genèse d'Instin au squat de la Grange-aux-Belles, Patrick Chatelier témoigne : « J’ai montré les photos, j’ai un peu personnifié le général et je me suis aperçu que les artistes présents s’en emparaient pour en faire leur propre chose. C’est là que c’est devenu collectif. ».
-
-C'est à ce moment aussi que Hinstin perd son « H qui le faisait humain historique » pour opérer ce passage vers la fiction et devenir personnage-entité. Tout le monde peut alors s’approprier cet « ancêtre universel » pour lui inventer une histoire et lui donner une seconde vie.
-
-Comme toute contrainte, Instin finira par se dérober à lui-même, en devenant totalement polymorphe - sa fonction et son statut littéraires en constantante évolution, au gré de nombreuses appropriations.
-
-Pour preuve, assez récemment, Instin est devenu une figure auctoriale : son nom trône en couverture de 3 ouvrages (une anthologie, un récit de fiction, une traduction d'edgar Lee Masters). Sur les réseaux sociaux, il compte ses propres profils et parle en son nom. Au cours de ce processus d'éditorialisation, Instin s'est donc aussi autorisé.
-
-Instin incarne ainsi des tendances ou des traits saillants des nouvelles pratiques d'écriture à l'ère numérique :
-- une forte tendance à l'appropriation, et son corollaire :
-- une ouverture du concept d'autorité
-- un déplacement - ou en tout cas, une revalorisation d'une écriture qui se déploie hors du livre.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/editionInstin.jpg" -->
+<!-- .slide: data-background-image="img/editionInstin.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ### Un modèle hors-livre
@@ -803,33 +970,15 @@ Il est disséminé sur plusieurs supports, numériques/non-numériques, sur plus
 
 De l'investissement d'un squat dans une rue de Paris jusqu'à l'investissement du web, des réseaux sociaux qui sont détournés pour créer un profil "fictif", nous avons tendance à croire qu'il y a là une même stratégie d'occupation des marges et de détournement des institutions, qui est essentiel pour comprendre les mutations qui affectent la notion même de littérature.
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/10458166_10153074634228797_4994304635406227180_n.jpg" -->
-<!-- .slide: class="hover"-->
-
-### Une littérature "brouhaha"
-
-> « Publier » retourne à son sens originel : rendre public, passer de l’expression privée destinée à des correspondants précis à l’expression pour des publics de plus en plus divers.
->
-> [C]ette multitude d’espaces publics caractérise le moment contemporain de la littérature, comme la sphère publique de la Littérature caractérisait sa représentation moderne. Si ces espaces publics ont toujours existé, même lorsqu’on les mettait sous silence, jamais ils n’ont été aussi nombreux et visibles […] si bien que le littéraire aujourd’hui apparaît en très grande partie comme une arène conflictuelle composée d’une sphère publique hégémonique reposant sur l’imprimé et d’une multitude d’espaces publics contre-hégémoniques relevant plutôt d’une « littérature-brouhaha » (exposée, performée, in situ, multi-support) avec de très nombreuses circulations entre eux. »
->
-> Lionel Ruffel, _Brouhaha, Les Mondes du contemporain_
-
-<!-- .element: style="font-size:1.4rem; text-align:justify" -->
-
-===
-Lionel Ruffel a proposé le terme de "littérature brouhaha" pour qualifier ce passage d'un imaginaire du littéraire centré sur le livre comme objet-support, à un imaginaire du littéraire centré sur une action et une pratique : la publication.
-[CITER]
-
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/sp38.png" -->
 <!-- .slide: class="hover"-->
 
-### Gestes de publication
+### Une écriture-milieu
 
 
->«L’écriture numérique s’offre également comme un ciel ouvert, un chantier, une progression ininterrompue et non téléologique, un dialogue constant et tendu avec les formes. En s’offrant comme milieu, comme écosystème, l’expérience directe du processus de l’écriture s’intensifie.»
+> L’écriture numérique s’offre également comme un ciel ouvert, un chantier, une progression ininterrompue et non téléologique, un dialogue constant et tendu avec les formes. En s’offrant comme milieu, comme écosystème, l’expérience directe du processus de l’écriture s’intensifie.
 >
 > Sébastien Rongier, _Le_ Général Instin, _les vies multiples du littéraire_
 
@@ -849,7 +998,7 @@ CITER
 <!-- .slide: data-background-image="img/campagneNonOfficielle.png" -->
 <!-- .slide: class="hover"-->
 
-### Général Anarchie ?
+### Une écriture collective
 
 > Il n’y a pas de chef, pas d’organisation, c’est un fonctionnement particulier. Il n’y a jamais eu non plus de comité de rédaction. Ni de réunion. Une tentative de séminaire a capoté. Il y a des opportunités et des gens qui vont s’investir, longtemps ou pas, dans cette entité.
 >
@@ -877,114 +1026,28 @@ On voit bien là une résistance active à toute forme d'autorité.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="./img/Composition3Graphes_large.png" data-background-size="cover" -->
-<!--  .slide: class="hover"-->
+<!-- .slide: data-background-image="img/10458166_10153074634228797_4994304635406227180_n.jpg" -->
+<!-- .slide: class="hover"-->
 
-### Finitude
-* un ensemble ouvert et dynamique, mais fini
-* centralité de certains acteurs et plateformes
+### Une littérature "brouhaha"
 
-===
-Et pourtant, notre travail d'archivage nous a progressivement amenés à cerner le corpus en un ensemble, certes ouvert, mais fini. Avec un nombre d’auteurs, de contributions, de plateformes maîtrisables. Elle nous montre par ailleurs que c'est un corpus malgré tout organisé et éditorialisé.
+> « Publier » retourne à son sens originel : rendre public, passer de l’expression privée destinée à des correspondants précis à l’expression pour des publics de plus en plus divers.
+>
+> [C]ette multitude d’espaces publics caractérise le moment contemporain de la littérature, comme la sphère publique de la Littérature caractérisait sa représentation moderne. Si ces espaces publics ont toujours existé, même lorsqu’on les mettait sous silence, jamais ils n’ont été aussi nombreux et visibles […] si bien que le littéraire aujourd’hui apparaît en très grande partie comme une arène conflictuelle composée d’une sphère publique hégémonique reposant sur l’imprimé et d’une multitude d’espaces publics contre-hégémoniques relevant plutôt d’une « littérature-brouhaha » (exposée, performée, in situ, multi-support) avec de très nombreuses circulations entre eux. »
+>
+> Lionel Ruffel, _Brouhaha, Les Mondes du contemporain_
 
-En fait, ce que nous a montré nos premiers pas dans la constitution de l'archive GI, c'est qu'il existe malgré tout des noeuds de cristallisation, des acteurs à la centralité plus ou moins prégnante, des formes, elles-mêmes investies de leur dispositif.
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-![](img/20170509_2_white.png) <!-- .element: width="60%" -->
-
-_Spatialisation (Fruchterman Reingold) et Centralité de vecteur propre_  <!-- .element: style="font-size: 1.4rem" -->
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
 
 ===
-C'est notamment ce que nous révèle cette première spatialisation du réseau de documents déjà référencés dans l'archive, calculée à partir des liens hypertexte inter-documents.
+Lionel Ruffel a proposé le terme de "littérature brouhaha" pour qualifier ce passage d'un imaginaire du littéraire centré sur le livre comme objet-support, à un imaginaire du littéraire centré sur une action et une pratique : la publication.
+[CITER]
 
-L'algorithme de spatialisation choisi est volontairement neutre, de manière à révéler des relations, des lignes de forces, mais sans trop les caractériser : cela nous permet de garder un lien particulier avec les sources et poursuivre une lecture rapprochée.
-
-Mais ce qu'elle nous montre très clairement, c'est que le corpus s'agence, se partitionne.
-
-Ici, le calcul de centralité confirme qu'il existe dans ce corpus des hubs, des textes plus importants que les autres, davantage cités que les autres, ...
-
-(centralité de vecteur propre (eigen vector))
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-
-
-![](img/20170509_3_remue1524.png) <!-- .element: width="50%" -->
-![](img/item-002_crop.png) <!-- .element: width="40%" -->
-
-_La campagne d’Égypte_, Patrice Chatelier (2006)  
-
-<!-- .element: style="font-size: 1.4rem" -->
-
-===
-comme c'est le cas de La Campagne d'Egypte de Patrice Chatelier, un des premiers textes du GI sur remue.net.
-
-Pour le moment, les résultats sont biaisés par le fait que notre première approche pour la collection du corpus (pour les 30 premiers items) a été de procéder par propagation à partir des liens hypertextes, et que donc nécessairement, les premiers items collectés sont particulièrement connectés entre eux.
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-![](img/20170509_3_white.png) <!-- .element: width="60%" -->
-
-_Modularité_  <!-- .element: style="font-size: 1.4rem" -->
-
-===
-Ici, le calcul de modularité nous donne une partition en une dizaine de "communautés", ce qu'on n'interprétera pas à ce stade à cause d'un corpus incomplet, mais cela vient ...
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-![](img/20170528_3_remue6133.png) <!-- .element: width="55%" -->
-![](img/remue6133_baseAcide.png) <!-- .element: width="40%" -->
-
-_Base acide_, Anne Kawala (2013)  
-
-<!-- .element: style="font-size: 1.4rem" -->
-
-===
-... tout de même réveler **des formes d'écritures**, comme ce texte d'Anne Kawala qui a travaillé sur le champs lexical du spectre et de la disparition et à ancrer ce champs lexical avec le site wiktionary.org.
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-<!-- .slide: data-background-image="img/rubon622.jpg"  -->
-
-
-### «dispositive» _(adj.)_
-
-* _action dispositive_ (Merzeau, 2013)
-* _écritures dispositives_ : objet et milieu
-
-===
-
-Ce que suggère ces premières fouilles, ces premières visualisations d'un corpus encore incomplet, c'est que les _manifestations_ d'instin produisent ensemble un archipel dont les contours sont finalement relativement identifiables. Il existe bien une forme, ou des formes, un espace produit,  éditorialisé qui fait dispositif.
-
-Pour mieux penser ce dispositif, nous reprenons le glissement syntaxique introduit par Louise Merzeau :
-
-Louise parle en 2013 d'_action dispositive_, c'est-à-dire d'une action à la fois opérée dans la cadre d'un dispositif mais aussi contributive et constitutive du dispositif.
-
-En 2016, elle parle encore de rhétorique dispositive, cette forme de discours et cette capacité de nous écrire dans l'environnement numérique ou environnement-dispositif.
-
-Ainsi, en glissant du concept à l'adjectif, nous abandonnons le _dispositif_, notion potentiellement problématique, mais sans en abandonner la fonction, ce qui nous semble particulièrement pertinent et opérant pour embrasser la nature environnementale du numérique.
-
-De fait, il n’y a pas de dispositif formel Général Instin, mais Instin produit un environnement _dispositif_ dans lequel les actions sont des _écritures dispositives_, autrement dit, des écritures comme milieu.
-
-Ce glissement n'est pas anodin, il permet de nous rapprocher de la nature-même du dispositif Instin, en tant que média, ou en tant que milieu, et par ailleurs d'invoquer la théorie de l'éditorialisation pour comprendre comment cette nature environnementale du numérique travaille les dispositifs littéraires, tant du côté de l'écriture que de la lecture. [Ce qui permet notamment de penser les pratiques d'écritures et de lectures non pas de façon hors-sol, mais liées par essence aux dispositifs ou plus exactement à leur milieu.]
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-<!-- .slide: data-background-image="img/reveGeneral.png" -->
-
-### Alors... qu'est-ce que, et pourquoi Instin ?
-
-* Instin est donc une forme d'éditorialisation dont l'espace de publication est un espace public
-
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/StLouisNavire.JPEG" -->
 
-### Origine(s)
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### La redéfinition de la frontière imaginaire-réel
 
 ===
 Une façon de chercher à répondre à cette question consiste à établir les origines d'Instin.
@@ -1002,19 +1065,6 @@ Du coup, on pourrait se demander si, finalement, notre chronologie linéaire ne 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/adamique.png" -->
 
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/G.I.-15h26--.jpg" data-background-size="contain"-->
-<!-- .slide: class="hover"-->
-
-### (H)Instin éditorialisé : par-delà la frontière imaginaire/réel
-
-* espace numérique et brouillage des frontières
-* superposition de discours littéraire et non littéraire
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/projet.png" data-background-size="contain" -->
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
