@@ -67,7 +67,7 @@ _École d'été du CRIHN (juin 2018)_
 
 2. Étude de cas 1 : François Bon dans son chantier littéraire
 
-3. Étude de cas 2 : Général Instin, le corpus fantôme
+3. Étude de cas 2 : le corpus fantôme du Général Instin
 
 ===
 
@@ -81,8 +81,7 @@ _École d'été du CRIHN (juin 2018)_
 - Sans-*Limite* : l'oeuvre ouverte
 
 3. Étude de cas 2 : Général Instin
-- Le corpus fantôme : l'autorité en question
-- De l'édition à l'éditorialisation : l'enjeu de la publication
+- Le corpus fantôme
 - Les études littéraires à l'ère numérique
 
 
@@ -127,12 +126,16 @@ Entre théorie et pratique, les praticiens sont ainsi amenés à développer une
 <!-- .slide: class="hover"-->
 
 
-> L’idée centrale de cet article est que l’indexation fine du contenu rendue possible pour le numérique introduit un rapport nouveau au contenu et au document. Alors que selon l’indexation traditionnelle l’enjeu est de retrouver le ou les documents contenant l’information recherchée, l’indexation fine du contenu permet de ne retrouver que les segments concernés par la recherche d’information et de paramétrer l’usage de ces segments. (...) Devenant des ressources, ces segments sont remobilisés pour la production d’autres contenus dont ils constituent les composants. La finalité n’est plus de retrouver des documents, mais d’en produire de nouveaux, à l’aide des ressources retrouvées. On passe ainsi de l’indexation pour la recherche à l’indexation pour la publication. Comme cette dernière s’effectue selon des règles et des normes, on parlera plutôt d’éditorialisation, pour souligner le fait que les segments indexés sont enrôlés dans des processus éditoriaux en vue de nouvelles publications. (Bruno Bachimont, « Nouvelles tendances applicatives : de l’indexation à l’éditorialisation », in L’indexation multimédia, Paris, Hermès, 2007)
+> L’idée centrale de cet article est que l’indexation fine du contenu rendue possible pour le numérique introduit un rapport nouveau au contenu et au document. Alors que selon l’indexation traditionnelle l’enjeu est de retrouver le ou les documents contenant l’information recherchée, l’indexation fine du contenu permet de ne retrouver que les segments concernés par la recherche d’information et de paramétrer l’usage de ces segments. (...) Devenant des ressources, ces segments sont remobilisés pour la production d’autres contenus dont ils constituent les composants. La finalité n’est plus de retrouver des documents, mais d’en produire de nouveaux, à l’aide des ressources retrouvées. On passe ainsi de l’indexation pour la recherche à l’indexation pour la publication. Comme cette dernière s’effectue selon des règles et des normes, on parlera plutôt d’éditorialisation, pour souligner le fait que les segments indexés sont enrôlés dans des processus éditoriaux en vue de nouvelles publications.
+>
+> Bruno Bachimont, « Nouvelles tendances applicatives : de l’indexation à l’éditorialisation », in _L’indexation multimédia_, Paris, Hermès, 2007
 
 <!-- .element: style="font-size:1.4rem" -->
 
 ===
 Pour Bachimont, l'éditorialisation est le processus par lequel une ressource est remédiée en un nouveau document numérique, impliquant la ré-interprétation de la ressource.
+
+EN changeant de milieu, le document est amené à devenir autre.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -142,19 +145,16 @@ Pour Bachimont, l'éditorialisation est le processus par lequel une ressource es
 
 2008: institutionnalisation du concept
   * Séminaire «Écritures numériques et éditorialisation» (Sens Public, IRI, Dicen-IDF, UdeM)
-  * Des dizaines de publications sur le sujet
+  * De nouveaux documents et objets "natifs numériques"
 
-> Davantage qu’un néologisme forgé pour marquer le passage au numérique, le concept d’éditorialisation vient répondre à des problématiques posées par ce nouveau modèle (numérique). Il est en effet essentiel de souligner, au terme de ce travail de définition, à quel point la notion d’éditorialisation peut changer notre manière d’habiter l’espace numérique. Parce qu’elle en souligne la structure, l’éditorialisation nous donne la possibilité de comprendre l’espace numérique et de comprendre le sens de nos actions dans cet espace : elle nous révèle les rapports entre les objets, les dynamiques, les forces, les dispositifs de pouvoir, les sources d’autorité.
-
-<!-- .element: style="font-size:1.4rem" -->
 
 ===
 À partir de 2008, le terme commence ainsi à s'institutionnaliser.
 
 Notamment avec le séminaire "Écritures numériques et éditorialisation", où l'éditorialisation se conçoit comme un espace de débat et de réfléxion - nous vous invitons à consulter les archives vidéo disponibles en ligne, pour vous faire une idée plus précise de ce chantier théorique et pratique.
 
+
 L'éditorialisation permet alors de penser un processus ouvert où auteurs, collectivités, plateformes, dynamiques pratiques sont mêlées et difficiles à retracer. pas curation, pas édition... éditorialisation
-pourtant ça produit une émergence de sens
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -163,12 +163,22 @@ pourtant ça produit une émergence de sens
 <!-- .slide: data-background-image="img/numerique.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
-### Enjeux de l'éditorialisation
+> Davantage qu’un néologisme forgé pour marquer le passage au numérique, le concept d’éditorialisation vient répondre à des problématiques posées par ce nouveau modèle (numérique). Il est en effet essentiel de souligner (...) à quel point la notion d’éditorialisation peut changer notre manière d’habiter l’espace numérique. Parce qu’elle en souligne la structure, l’éditorialisation nous donne la possibilité de comprendre l’espace numérique et de comprendre le sens de nos actions dans cet espace : elle nous révèle les rapports entre les objets, les dynamiques, les forces, les dispositifs de pouvoir, les sources d’autorité.
+>
+> Vitali-Rosati, _Qu'est-ce que l'éditorialisation?_, Sens public 2016
 
-Comment garantir la production, la circulation et la légitimation de la littérature à l'ère numérique ?
+
+<!-- .element: style="font-size:1.8rem" -->
 
 
->«La différence entre édition et éditorialisation n'est pas qu'une différence d'outils. Elle suggère plutôt une différence culturelle : l'éditorialisation n'est pas notre façon de produire du savoir en utilisant des outils numériques ; c'est notre façon de produire du savoir à l'époque du numérique, ou mieux, dans notre société numérique.»
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/numerique.jpg" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
+
+### Définition restreinte
+
+> Selon la définition restreinte, l’éditorialisation désigne l’ensemble des appareils techniques (le réseau, les serveurs, les plateformes, les CMS, les algorithmes des moteurs de recherche), des structures (l’hypertexte, le multimédia, les métadonnées) et des pratiques (l’annotation, les commentaires, les recommandations via les réseaux sociaux) permettant de produire et d’organiser un contenu sur le web. En d’autres termes, l’éditorialisation est une instance de mise en forme et de structuration d’un contenu dans un environnement numérique. On pourrait dire, en ce sens, que l’éditorialisation est ce que devient l’édition sous l’influence des technologies numériques.
 >
 > Vitali-Rosati, _Qu'est-ce que l'éditorialisation?_, Sens public 2016
 
@@ -176,26 +186,54 @@ Comment garantir la production, la circulation et la légitimation de la littér
 
 
 ===
-Au regard de ce balisage préliminaire, appliquée à la littérature ou aux humanités numériques littéraires, l'enjeu de l'éditorialisation est le suivant : Comment garantir la production, la circulation et la légitimation de la littérature à l'ère numérique ?
 
-Mine de rien, la qusetion que l'on se pose est assez ambitieuse: au fond, il ne s'agit rien de moins que d'interroger le statut ontologique de la littérature, à l'heure où le numérique ne se pense plus seulement en termes d'outils mais bien en termes de culture. <!-- ok là c'est simpliste mais j'essaire de transitionner-->
+la définition restreinte s’intéresse aux mutations des outils de l’édition numérique, qui se caractérise par l’apparition de nouveaux dispositifs et corps de métier, et la disparition d’autres dispositifs et corps de métier.
 
+Si l’éditorialisation = ce que « devient l’édition sous l’influence des technologies », pourquoi ne parle-t-on pas simplement d’édition numérique ? Tout simplement parce que la mutation engagée par le déplacement de l’édition avec les outils numériques et sur le web est telle, qu’elle vient modifier en profondeur ce que l’on entend par édition :
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="./img/mashupInstin.png" -->
+
+
+<!-- .slide: data-background-image="img/numerique.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
-### Caractéristiques de l'éditorialisation
 
-- ouverte
-  - plusieurs plateformes
-  - plusieurs acteurs
-  - toujours inachevée
-- processuelle
-- collective
+> l'éditorialisation façonne et structure les contenus sans se limiter à un contexte fermé et bien défini (comme une revue) ou à un groupe prédéfini d'individus (comme les éditeurs). Elle implique une ouverture de l'espace (plusieurs plateformes) et du temps (plusieurs contributions différentes, à des moments distincts). Cette ouverture est l'une des différences principales entre curation et éditorialisation et elle est aussi ce qui différencie l'éditorialisation de l'édition traditionnelle. L'ouverture de l'éditorialisation par rapport à l'édition papier détermine une certaine perte de contrôle de l'écrivain comme de l'éditeur sur le contenu. En effet, tous deux ne sont plus que des acteurs parmi d'autres du processus éditorial, qui s'élargit considérablement.
+
+>
+> Vitali-Rosati, _Qu'est-ce que l'éditorialisation?_, Sens public 2016
+
+<!-- .element: style="font-size:1.8rem; text-align:justify" -->
+
 
 ===
+
+L’ouverture dans le temps et dans l’espace est devenue le principe fondateur de l’éditorialisation = nature PROCESSUELLE de l’éditorialisation. Or c’est justement cette ouverture que notre modèle éditorial avait cherché à verrouiller. Le principe de l’édition était de publier des textes qui devaient faire référence - on n’était pas supposés pouvoir les modifier sans cesse, et on devait les circonscrire dans un objet.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/numerique.jpg" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
+
+
+### 2. Définition large
+
+> dans un monde numérique connecté, exister signifie être éditorialisé. En effet, dans l'espace numérique, un objet doit être connecté et mis en relation avec les autres objets pour exister. Par exemple, pour qu'un restaurant existe, il doit se trouver sur TripAdvisor, sur GoogleMaps, ou sur une autre plateforme qui spécifie sa relation avec d'autres restaurants, un territoire, etc., tout en le rendant visible et compréhensible. Pour qu'une personne existe dans l'espace numérique, elle doit avoir un profil sur Facebook, sur Twitter, sur LinkedIn ou sur une autre plateforme qui puisse l'identifier et la rendre visible. L'éditorialisation devient donc une condition d'existence. Or, sur la base de cette idée, éditorialiser ne signifie pas seulement produire des contenus, mais aussi produire la réalité elle-même. Selon cette définition très large, l'éditorialisation désigne l'ensemble des formes collectives de négociation du réel. En d'autres termes, l'éditorialisation est l'ensemble de nos pratiques sociales qui nous permet de comprendre, d'organiser et d'interpréter le monde.
+>
+> Vitali-Rosati, _Qu'est-ce que l'éditorialisation?_, Sens public 2016
+
+<!-- .element: style="font-size:1.8rem; text-align:justify" -->
+
+
+===
+
+Mais si l’on s’est embêté à créer un néologisme, c’est aussi parce que ces mutations ont des conséquences culturelles, épistémologiques, et même ontologiques. C’est que l’éditorialisation doit aussi se comprendre à une échelle plus large, qui n’est pas seulement liée à la question des techniques/outils de production/diffusion/validation des textes : un changement plus profond serait en train de s’opérer - sur la définition même du savoir (connaissance renfermée dans les livres), de la littérature (ce qui fait littérature), de la culture.
+
+C’est pour mesurer ce changement paradigmatique que l’on a pu forger une seconde définition de l’éditorialisation : DEF
+
+
+Le problème de cette définition, c’est quelle est tellement large et essentialiste (on touche à la philo, et notamment à des questions ontologiques, liées au rapport entre réel et non-réel), qu’elle nous fait nous éloigner un peu de nos préoccupations du moment. Il ne s’agit pas de dire qu’elle est fausse, mais qu’elle touche plus à la science fondamentale qu’à la science appliquée. Or il est très urgent aujourd’hui de développer une théorie appliquée de l’édition.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -218,6 +256,52 @@ Mine de rien, la qusetion que l'on se pose est assez ambitieuse: au fond, il ne 
 
 Cette distinction entre édition et éditorialisation opérée par MVR, l'amène (et nous amène) à proposer une définition du concept dont les conséquences ontologiques sont très fortes. L'éditorialisation comprend en effet une dimension performative décisive, qui se traduit notamment par une pensée spatiale du fait numérique.
 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="./img/mashupInstin.png" -->
+<!-- .slide: class="hover"-->
+
+### Caractéristiques de l'éditorialisation
+
+- ouverte
+  - plusieurs plateformes
+  - plusieurs acteurs
+  - toujours inachevée
+- processuelle
+- collective
+
+===
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/numerique.jpg" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
+
+### Portée de l'éditorialisation
+
+>«La différence entre édition et éditorialisation n'est pas qu'une différence d'outils. Elle suggère plutôt une différence culturelle : l'éditorialisation n'est pas notre façon de produire du savoir en utilisant des outils numériques ; c'est notre façon de produire du savoir à l'époque du numérique, ou mieux, dans notre société numérique.»
+>
+> Vitali-Rosati, _Qu'est-ce que l'éditorialisation?_, Sens public 2016
+
+<!-- .element: style="font-size:1.8rem; text-align:justify" -->
+
+
+===
+Au regard de ce balisage préliminaire, appliquée à la littérature ou aux humanités numériques littéraires, l'enjeu de l'éditorialisation est le suivant : Comment garantir la production, la circulation et la légitimation de la littérature à l'ère numérique ?
+
+Mine de rien, la qusetion que l'on se pose est assez ambitieuse: au fond, il ne s'agit rien de moins que d'interroger le statut ontologique de la littérature, à l'heure où le numérique ne se pense plus seulement en termes d'outils mais bien en termes de culture. <!-- ok là c'est simpliste mais j'essaie de transitionner-->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/numerique.jpg" data-background-size="contain"-->
+<!-- .slide: class="hover"-->
+
+### Enjeux de l'éditorialisation
+
+* Comment garantir la production, la circulation et la légitimation des contenus à l'ère numérique ?
+* Oui, mais tous les contenus (texuels, visuels, sonores... savants, littéraires, etc.) peuvent-ils être conçus et traités de la même manière ?
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -245,13 +329,102 @@ Attention : cet article ne prétend nullement que le numérique réforme le stat
 Si, tel que nous en avons la conviction, la littérature contribue également à la production du réel, cette question ontologique est finalement une porte d'entrée idéale pour penser le rapport entre éditorialisation et littérature.
 
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+<!-- .slide: data-background-image="img/françois-Bon-Lovecraft.jpg" -->
+
+
+## François Bon dans son chantier : la littérature à l'ère numérique
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/Fleurs_du_mal.jpg" -->
+<!-- .slide: class="hover"-->
+
+### "Baudelaire n'a jamais écrit les _Fleurs du mal_"
+* Qu'est-ce qu'une "oeuvre" littéraire ?
+* Discussion des enjeux de clôture et de stabilisation
+* Le livre-nombreux
+
+===
+
+“Baudelaire n’a jamais écrit Les fleurs du mal”. Cette proposition polémique est le titre, un brin provocateur, du 11e chapitre d’Après le livre. Nous aurait-on alors menti ? Baudelaire ne serait pas le véritable auteur des Fleurs du mal, cette oeuvre qui compte parmi les plus connues de la littérature française ? Là n’est pas la question. François Bon n’a nullement la volonté d’ôter à Baudelaire la paternité de son oeuvre. Il s’agit plutôt de remettre en question le concept même d’oeuvre, comprise comme le résultat d’une intention explicite et forte de l’écrivain - dont le livre imprimé serait la matérialisation finale, stable et la pérenne. Dire que « Baudelaire n’a pas écrit Les Fleurs du mal », dans ce contexte, c’est donc affirmer que Les Fleurs du mal n’existent pas “en soi” comme une entité unique, autonome, et close sur elle-même, que l’auteur aurait imaginée et conçue d’un seul jet.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/Fleurs_du_mal.jpg" -->
+<!-- .slide: class="hover"-->
+
+### Une généalogie complexe, une clôture factice
+
+- Manuscrit perdu confié à Charles Asselineau (vers 1850)
+- 1ère édition par Auguste Poulet-Malassis, attaquée et censurée (1857)
+- 2nde édition chez Poulet-Malassis, sans les poèmes censurés + "Tableaux Parisiens" (1861)
+- Édition de _Les Épaves_ par Poulet-Malassis (1866)
+- 4e Édition avec 151 poèmes (1868)
+- 1949 : première "édition complète" autorisée
+
+===
+
+De ce point de vue, il faut bien dire que François Bon a plutôt raison, comme le montre la généalogie complexe des Fleurs du mal. On sait en effet qu’il a d’abord existé un premier manuscrit relié du recueil, aujourd’hui perdu, que le poète avait confié à son ami écrivain Charles Asselineau, vers 1850 - le contenu exact de cette version est indéterminé. En 1857, une première édition des Fleurs du mal est publiée et tirée à 1300 exemplaires par le jeune éditeur Auguste Poulet-Malassis.
+Attaquée pour outrage aux bonnes moeurs, puisque des poèmes comprennent des connotations érotiques à peine dissimulées, cette édition sera censurée.
+
+Loin de se décourager, Auguste Poulet-Malassis, auquel Baudelaire a cédé les droits de reproduction exclusifs, propose une nouvelle édition du recueil en 1861. Le poète y supprime les 6 poèmes ayant fait l’objet d’une censure, mais en ajoute 32, pour un total de 126 poèmes - dont une nouvelle section, et non la moindre, celle des « Tableaux parisiens ». Cinq ans plus tard (1866), alors qu’il est exilé en Belgique pour échapper à la justice Française, Poulet-Malassis fait paraître Les Épaves, un recueil qui compte 23 poèmes de Baudelaire, dont les 6 qui avaient été censurés dans la première édition… L’ouvrage, évidemment, est condamné, mais il est considéré par les spécialistes comme la 3è édition des Fleurs du mal. Et ce n’est pas fini ! Après le décès de Baudelaire, une quatrième édition est publiée en 1868 qui comprend un total de 151 poèmes, sans ceux qui ont été condamnés par la censure - lesquels sont parallèlement re-publiés à Bruxelles en 1869, dans un Complément aux Fleurs du Mal de Charles Baudelaire, avec le recueil Les Épaves...
+Tout cela pour dire, en fin de compte, que le public n’a pu lire une version “complète” des Fleurs du Mal qu’en 1949 (!), suite à un jugement de la Chambre criminelle de la Cour de cassation, qui a révisé l’ensemble des condamnations pour outrage aux bonnes mœurs commis par la voie du livre…
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/Fleurs_du_mal.jpg" -->
+<!-- .slide: class="hover"-->
+
+### Le livre-nombreux
+
+> Peut-être “Les Fleurs du mal” est-il le livre le plus nombreux dans ma bibliothèque. Paradoxe de l’expression, mais comment dire autrement qu’il est présent dans la pièce où je travaille en tant d’éditions successives ou critiques, ou poche – ou ultra-poche… ?
+
+>
+
+> François Bon _Après le livre_, chapitre "Baudelaire n'a jamais écrit les Fleurs du mal" (2011)
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/xxxxxx" -->
+
+### Le Chantier littéraire de _Fragments du dedans_
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/xxxxxx" -->
+
+### L'écriture-performance
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/xxxxxx" -->
+
+### Sans-_Limite_
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/xxxxxx" -->
+
+### Republication
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/xxxxxx" -->
+
+### Remédiation
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/xxxxxx" -->
+
+### Rétro-médiation
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/xxxxxx" -->
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/generalinstinVitrail.jpg" -->
 
-## Les Instin Studies : projet d'étude d'un corpus fantôme
+## Le corpus fantôme du Généaral Instin : les études littéraires à l'ère numérique
 
 ===
 
@@ -358,7 +531,7 @@ Instin est un fantôme, performé par le récit sans cesse réitéré de sa disp
 
 ### Problématiques:
 
-* (ontologique) Qu'est-ce qu'Instin ? Pourquoi Instin ?
+* (ontologique) Qu'est-ce qu'Instin ?
 * (épistémologique) Comment étudier Instin ? Influence de/sur l'objet ?
 
 ===
@@ -563,28 +736,7 @@ On le voit, les Instin Studies se positionnent comme en miroir d'Instin, et ce �
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/vitrailOriginal.jpg"   data-background-size="contain"  -->
 
-### Dispositif GI ?
-
-===
-
-[REECRIRE]
-
-Y a t il vraiment un espace Instin ? y a t il un dispositif GI ?
-
-Or, similaire au sentiment d'insaisissabilité face à cette photo originelle du vitrail : celle d'une figure aux contours flous, spectrale, dont même la direction du regard s'est perdue, le projet Instin lui aussi se révèle indéfinissable, multi-forme ou à géométrie variable.
-
-Toutes ces raisons laissent penser que le dispositif est absent.
-
-Cette intuition est aussi renforcée par l'élongation dans le temps du projet, le fait que les textes et les formes semblent s'accumuler sans poursuivre un objectif précis, si ce n'est celui de produire, aussi celui de faire collectif, celui d'une rhétorique peut-être. (rhétorique dispositive).
-
-C'est cette absence supposée de dispositif qui permet justement de poser en creux la question du dispositif, et de se demander ce qu'il devient dans un tel projet, comment il opère, et s'il n'est plus là, qu'est ce qui le remplace.
-Autrement dit, de même qu'Instin constitue intuitivement un cas d'étude idéal de littérature contemporaine, il pourrait nous éclairer sur la nature d'un environnement-dispositif.
-
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/00-schema1-01floucinetique-2.jpg" data-background-size="contain" -->
 
 ## GI : cas d'école d'une littérature éditorialisée
@@ -821,56 +973,13 @@ Ce glissement n'est pas anodin, il permet de nous rapprocher de la nature-même 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-<!-- .slide: data-background-image="img/campagneNonOfficielle.png" -->
-<!-- .slide: class="hover"-->
-
-
-### «GI Commons»
-
-* l'écriture dispositive : de l'appropriation
-* littérature éditorialisée : espace public
-* commun
-* l'écriture comme :
-  * objet du commun
-  * milieu
-
-===
-
-A quoi ce milieu prédispose ? à quoi l'écriture dispositive qu'est Instin prédispose ? : à la réécriture, à l'appropriation.
-
-On l'a vu, cette appropriabilité est caractéristique de cet espace de publication généré par Instin. C'est peut-être le dernier ingrédient pour un commun
-Instin, en tant que communauté, en tant qu'environnement dispositif et en tant qu'écriture
-
-
-Instin est donc une forme d'éditorialisation dont l'espace de publication est un espace public,
-
- comme
-
-Ainsi, dans cet espace public produit par cette forme particulière d'éditorialisation,
-
-Ainsi, si l'on réconcilie cette écriture dispositive ou écriture-milieu, et ce que la théorie de l'éditorialisation nous dit de la production de l'espace, c'est que l'écriture devient à la fois l'espace et l'objet du commun.
-
-l'éditorialisation qui est une production d'espace, cette écriture comme milieu,
-
-
-aussi l'idée que l'écriture est à la fois espace et objet littéraire.
-
-réintroduire cette forme d'éditorialisation produit un espace, mais ici un espace public : changement radical de l'espace et de l'autorité : qui prédispose à l'appropriation, c'est a dire aussi qui crée les conditions de possibilité d'un commun.
-
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/reveGeneral.png" -->
 
 ### Alors... qu'est-ce que, et pourquoi Instin ?
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/arton2702.jpg" data-background-size="contain"-->
+* Instin est donc une forme d'éditorialisation dont l'espace de publication est un espace public
 
-### La question H
 
-===
-Souvent convoqué par le projet d'écriture à contrainte, le H instinien - dont la disparition ou l'amputation ne fait finalement que rendre plus présente la problématique historique - nous ramène à notre question ontologique : comment se négocie la relation entre l'objet littéraire et l'objet historique ?
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/StLouisNavire.JPEG" -->
@@ -908,7 +1017,8 @@ Du coup, on pourrait se demander si, finalement, notre chronologie linéaire ne 
 <!-- .slide: data-background-image="img/projet.png" data-background-size="contain" -->
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
 <!-- .slide: data-background-image="img/iLoveInstin.jpg" data-background-size="contain" -->
 
 ## Conclusion : un projet instinien ?
@@ -931,13 +1041,6 @@ Une chose est sûre : nous nourrissons la bête qui est en train de nous dévore
 
 ### Merci !
 
-à suivre sur [nicolassauret.net/behindinstin](http://nicolassauret.net/behindinstin)
-
-
-![logo CRCEN](img/LogoENDT10-2016.png) <!-- .element: class="logo" style="width:30%; background-color:ghostwhite;padding: 5px" -->
-
-_Des humanités numériques littéraires ?_  
-15-22 juin 2017
 
 <!-- .element: style="font-size:1.4rem" -->
 
