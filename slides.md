@@ -71,19 +71,6 @@ _École d'été du CRIHN (juin 2018)_
 
 ===
 
-### Sommaire
-
-1. L'éditorialisation : présentation du concept
-
-2. Étude de cas 1 : François Bon
-- "Baudelaire n'a jamais écrit *Les Fleurs du mal*" : l'enjeu de stabilisation
-- _Fragments du dedans_ : le web-chantier
-- Sans-*Limite* : l'oeuvre ouverte
-
-3. Étude de cas 2 : Général Instin
-- Le corpus fantôme
-- Les études littéraires à l'ère numérique
-
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -120,6 +107,14 @@ Entre théorie et pratique, les praticiens sont ainsi amenés à développer une
   * Bruno Bachimont : le document numérique comme remédiation d'une ressource numérisée
 
 
+===
+
+
+Un auteur important : Bruno Bachimont qui met en avant le concept d'éditorialisation en 2007, dans un chapitre de *L’indexation multimédia* intitulé « Nouvelles tendances applicatives : de l’indexation à l’éditorialisation ».
+
+Bruno Bachimont utilise le terme pour parler du passage d'un document non-numérique à un document numérique (on n’est pas seulement dans le texte littéraire, mais dans la question du document - archivistique et information)
+
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 <!-- .slide: data-background-image="./img/PostIt.jpg" data-background-size="contain"-->
@@ -133,9 +128,10 @@ Entre théorie et pratique, les praticiens sont ainsi amenés à développer une
 <!-- .element: style="font-size:1.4rem" -->
 
 ===
-Pour Bachimont, l'éditorialisation est le processus par lequel une ressource est remédiée en un nouveau document numérique, impliquant la ré-interprétation de la ressource.
+Pour Bachimont, l'éditorialisation est le processus par lequel une ressource est remédiatisée et remédiée en un nouveau document numérique, impliquant la ré-interprétation de la ressource.
 
-EN changeant de milieu, le document est amené à devenir autre.
+Pour le dire autrement : en changeant de milieu, le document est amené à devenir autre.
+Le processus d'indexation multimédia n'est donc plus seulement une forme d'édition mais d'éditorialisation (l'éditorialisation venant ici désigner ce changement de nature qui s'opère)
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -154,8 +150,9 @@ EN changeant de milieu, le document est amené à devenir autre.
 Notamment avec le séminaire "Écritures numériques et éditorialisation", où l'éditorialisation se conçoit comme un espace de débat et de réfléxion - nous vous invitons à consulter les archives vidéo disponibles en ligne, pour vous faire une idée plus précise de ce chantier théorique et pratique.
 
 
-L'éditorialisation permet alors de penser un processus ouvert où auteurs, collectivités, plateformes, dynamiques pratiques sont mêlées et difficiles à retracer. pas curation, pas édition... éditorialisation
+L'éditorialisation permet alors de penser un processus un peu plus complexe car ouvert à tous : auteurs, collectivités, plateformes (donc outils de type algorithme), dynamiques pratiques.
 
+L'un des grand théoriciens du concept est Marcello Vitali-Rosati, dont nous allons présenter et discuter la pensée du concept.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -170,13 +167,20 @@ L'éditorialisation permet alors de penser un processus ouvert où auteurs, coll
 
 <!-- .element: style="font-size:1.8rem" -->
 
+===
+
+Le concept d'éditorialisation souligne en premier lieu les différences entre les modèles éditoriaux classiques et les modèles éditoriaux numériques. Il se réfère à des pratiques éditoriales que l'on ne peut réduire à ce que l'on entend généralement par « édition ».
+
+Là où l'éditorialisation restait chez Bachimont un processus assez limité, pas si éloigné de la curation de contenu, MVR développe - avec d'autres : Louise Merzeau, G. Wormser - une théorie assez ambitieuse qui tend à saisir les implications culturelles, épistémologiques et ontologiques de ce processes d'éditorialisation.
+
+Dans l'article que vous aviez à lire pour aujourd'hui, 3 définitions sont données.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 <!-- .slide: data-background-image="img/defRestreinte.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
-### Définition restreinte
+### 1. Définition restreinte
 
 > Selon la définition restreinte, l’éditorialisation désigne l’ensemble des appareils techniques (le réseau, les serveurs, les plateformes, les CMS, les algorithmes des moteurs de recherche), des structures (l’hypertexte, le multimédia, les métadonnées) et des pratiques (l’annotation, les commentaires, les recommandations via les réseaux sociaux) permettant de produire et d’organiser un contenu sur le web. En d’autres termes, l’éditorialisation est une instance de mise en forme et de structuration d’un contenu dans un environnement numérique. On pourrait dire, en ce sens, que l’éditorialisation est ce que devient l’édition sous l’influence des technologies numériques.
 >
@@ -189,7 +193,7 @@ L'éditorialisation permet alors de penser un processus ouvert où auteurs, coll
 
 la définition restreinte s’intéresse aux mutations des outils de l’édition numérique, qui se caractérise par l’apparition de nouveaux dispositifs et corps de métier, et la disparition d’autres dispositifs et corps de métier.
 
-Si l’éditorialisation = ce que « devient l’édition sous l’influence des technologies », pourquoi ne parle-t-on pas simplement d’édition numérique ? Tout simplement parce que la mutation engagée par le déplacement de l’édition avec les outils numériques et sur le web est telle, qu’elle vient modifier en profondeur ce que l’on entend par édition :
+Si l’éditorialisation = ce que « devient l’édition sous l’influence des technologies », pourquoi ne parle-t-on pas simplement d’édition numérique ? Tout simplement parce que la mutation engagée par le déplacement de l’édition avec les outils numériques et sur le web est telle, qu’elle vient modifier en profondeur ce que l’on entend par édition : c'est ce que décrivait déjà Bachimont, finalement.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -223,11 +227,9 @@ L’ouverture dans le temps et dans l’espace est devenue le principe fondateur
 
 
 ===
-
 Mais si l’on s’est embêté à créer un néologisme, c’est aussi parce que ces mutations ont des conséquences culturelles, épistémologiques, et même ontologiques. C’est que l’éditorialisation doit aussi se comprendre à une échelle plus large, qui n’est pas seulement liée à la question des techniques/outils de production/diffusion/validation des textes : un changement plus profond serait en train de s’opérer - sur la définition même du savoir (connaissance renfermée dans les livres), de la littérature (ce qui fait littérature), de la culture.
 
-C’est pour mesurer ce changement paradigmatique que l’on a pu forger une seconde définition de l’éditorialisation : DEF
-
+C’est pour mesurer ce changement paradigmatique que l’on a pu forger une seconde définition de l’éditorialisation : **DEF**
 
 Le problème de cette définition, c’est quelle est tellement large et essentialiste (on touche à la philo, et notamment à des questions ontologiques, liées au rapport entre réel et non-réel), qu’elle nous fait nous éloigner un peu de nos préoccupations du moment. Il ne s’agit pas de dire qu’elle est fausse, mais qu’elle touche plus à la science fondamentale qu’à la science appliquée. Or il est très urgent aujourd’hui de développer une théorie appliquée de l’édition.
 
@@ -250,8 +252,7 @@ Le problème de cette définition, c’est quelle est tellement large et essenti
 
 [CITER]
 
-
-Cette définition reste un peu floue, en fait on peut la préciser en prenant en compte trois aspects implicites de l'éditorialisation : un aspect technologique, un aspect culturel et un aspect pratique.
+Ainsi posée, cette définition reste un peu floue, en fait on peut la préciser en prenant en compte trois aspects implicites de l'éditorialisation : un aspect technologique, un aspect culturel et un aspect pratique. Mais le mieux est de prendre un exemple : le cas de Twitter.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/twitterEdito.png" -->
@@ -261,7 +262,7 @@ Cette définition reste un peu floue, en fait on peut la préciser en prenant en
 * Technologique : aspect prescriptif de l'environnement technologique (Twitter et ses 140/280 caractères)
 * Culturel : Twitter n'a pas inventé la forme courte (maxime, Haiku, poésie...)
 * Pratique : le pouvoir des usagers
-* Bref, une dynamique stygmergique
+* Bref, une dynamique stygmergique (A/R)
 
 ===
 
@@ -314,10 +315,14 @@ On a souvent tendance à craindre le technodéterminisme. Il faut comprendre le 
 
 
 ===
-Au regard de ce balisage préliminaire, appliquée à la littérature ou aux humanités numériques littéraires, l'enjeu de l'éditorialisation est le suivant : Comment garantir la production, la circulation et la légitimation de la littérature à l'ère numérique ?
 
-Mine de rien, la question que l'on se pose est assez ambitieuse: au fond, il ne s'agit rien de moins que d'interroger le statut ontologique de la littérature, à l'heure où le numérique ne se pense plus seulement en termes d'outils mais bien en termes de culture. <!-- ok là c'est simpliste mais j'essaie de transitionner-->
+Important : dimension performative de l'éditorialisation.
 
+Éditorialiser, c'est faire, c'est créer.
+- L'éditorialisation vient faire appel à une activité et une responsabilité accrue des acteurs-lecteurs
+- L'éditorialisation implique aussi une série d'outils et de protocoles qui ne sont pas toujours maîtrisables
+
+Là où l'édition trad était finalement très normée, avec des structures d'autorités très fortes, l'édito implique une perte de contrôle qui peut s'avérer problématique pour nos institutions, mais aussi pour nous, lecteurs-internautes. Comment sont triés les résultats d'un page Google ? Je peux influer sur les résultats via mes recommandations. En même temps je n'ai pas la main sur l'algorithme...
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -352,23 +357,14 @@ Mine de rien, la question que l'on se pose est assez ambitieuse: au fond, il ne 
 
 ### Editorialisation et littérature : de nouvelles frontières
 
->«Le fait de penser le geste de production des contenus numériques comme un geste de production de l’espace nous permet justement d’aller au-delà de l’opposition imaginaire/réel. Les pratiques, les discours et les technologies impliquées dans un geste d’éditorialisation ont comme résultat l’agencement d’un espace tout à fait réel, à savoir l’espace dans lequel nous vivons.»
->
-> Monjour, Vitali-Rosati, Wormser, _Le fait littéraire au temps du numérique. Pour une ontologie de l'imaginaire_, 2016.
-
-<!-- .element: style="font-size:1.8rem; text-align:justify" -->
+* Où commence/s'arrête l'oeuvre littéraire sur le web ?
+* Qui/ Qu'est-ce qui fait autorité sur le web ?
+* Quel est le rôle du lecteur ?
 
 
 ===
 
 
-L'éditorialisation, ainsi, produit l'espace, et donc produit le réel.
-C'est là que le concept peut apporter beaucoup à la réflexion littéraire, en réinvestissant notamment une problématique qui lui est inhérente: celle de la mimésis, de la distinction entre imaginaire-réel, celle de son statut ontologique, de sa fonction et de son pouvoir effectif.
-
-
-Attention : cet article ne prétend nullement que le numérique réforme le statut ontologique de la littérature. Plus exactement, il réinvestit des problématiques littéraires très anciennes (déjà formulées chez Platon et Aristote) et met en lumière ce brouillage qui a toujours existé entre imaginaire et réel.
-
-Si, tel que nous en avons la conviction, la littérature contribue également à la production du réel, cette question ontologique est finalement une porte d'entrée idéale pour penser le rapport entre éditorialisation et littérature.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -377,6 +373,13 @@ Si, tel que nous en avons la conviction, la littérature contribue également à
 
 
 ## François Bon dans son chantier&nbsp;: la littérature à l'ère numérique
+
+
+===
+
+Première  question : les nouvelles formes de publication sur le web seraient-elles vraiment en train de détruire la stabilité du texte autrefois permise par l’imprimé ?
+
+Réflexion préliminaire : la question de la stabilité et de la clôture...
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/Fleurs_du_mal.jpg" -->
@@ -411,8 +414,8 @@ De ce point de vue, il faut bien dire que François Bon a plutôt raison, comme 
 Attaquée pour outrage aux bonnes moeurs, puisque des poèmes comprennent des connotations érotiques à peine dissimulées, cette édition sera censurée.
 
 Loin de se décourager, Auguste Poulet-Malassis, auquel Baudelaire a cédé les droits de reproduction exclusifs, propose une nouvelle édition du recueil en 1861. Le poète y supprime les 6 poèmes ayant fait l’objet d’une censure, mais en ajoute 32, pour un total de 126 poèmes - dont une nouvelle section, et non la moindre, celle des « Tableaux parisiens ». Cinq ans plus tard (1866), alors qu’il est exilé en Belgique pour échapper à la justice Française, Poulet-Malassis fait paraître Les Épaves, un recueil qui compte 23 poèmes de Baudelaire, dont les 6 qui avaient été censurés dans la première édition… L’ouvrage, évidemment, est condamné, mais il est considéré par les spécialistes comme la 3è édition des Fleurs du mal. Et ce n’est pas fini ! Après le décès de Baudelaire, une quatrième édition est publiée en 1868 qui comprend un total de 151 poèmes, sans ceux qui ont été condamnés par la censure - lesquels sont parallèlement re-publiés à Bruxelles en 1869, dans un Complément aux Fleurs du Mal de Charles Baudelaire, avec le recueil Les Épaves...
-Tout cela pour dire, en fin de compte, que le public n’a pu lire une version “complète” des Fleurs du Mal qu’en 1949 (!), suite à un jugement de la Chambre criminelle de la Cour de cassation, qui a révisé l’ensemble des condamnations pour outrage aux bonnes mœurs commis par la voie du livre…
 
+Tout cela pour dire, en fin de compte, que le public n’a pu lire une version “complète” des Fleurs du Mal qu’en 1949 (!), suite à un jugement de la Chambre criminelle de la Cour de cassation, qui a révisé l’ensemble des condamnations pour outrage aux bonnes mœurs commis par la voie du livre…
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -426,6 +429,12 @@ Tout cela pour dire, en fin de compte, que le public n’a pu lire une version �
 > François Bon _Après le livre_, chapitre "Baudelaire n'a jamais écrit les Fleurs du mal" (2011)
 
 <!-- .element: style="font-size:1.8rem; text-align:justify" -->
+
+
+===
+
+La proposition de François Bon est donc particulièrement originale : l’expression de « livre nombreux » qu’il utilise, désigne non seulement les versions du texte mais aussi les versions du livre - soit de l’inscription médiatique du texte.
+En effet, on a bien vu que c’était aussi la mise en livre, le processus éditorial, qui avait construit une œuvre comme les Fleurs du mal, dont les éditions et rééditions ont été si nombreuses que Baudelaire lui-même n’en aura jamais vu l’état définitif. Le critère de “vérité du texte” doit alors prendre en compte cette multiplicité textuelle mais aussi matérielle, une multiplicité constitutive de la plupart des oeuvres littéraires - autant imputable à l’écrivain, qui aura construit une oeuvre sur plusieurs années), qu’à l’éditeur, qui est lui aussi l’architecte du livre.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -443,8 +452,12 @@ Tout cela pour dire, en fin de compte, que le public n’a pu lire une version �
 
 ===
 
-Cette écriture-performance, François Bon l’a mise en pratique avec Fragments du dedans - un livre publié chez Grasset, mais dont le “chantier” a d’abord été publié en ligne.
-Pour François Bon en effet, “tout chantier d’écriture s’insère d’abord sur le site. Et puis vient un moment où le livre prend le relais, exige d’autres outils, d’autres reprises et approches.” Le web-chantier ne se conçoit donc pas comme un “concurrent” du livre, mais comme une expérience alternative, autonome, qui servira de pierre d’assise à la constitution de celui-ci. Ce que François Bon publie en ligne, c’est bien cette performance qu’est l’écriture - “non pas le livre, mais ce pré-travail sur le web, l’étape embryonnaire aux 2/3 de la constitution du livre, en l’état”.
+Il faut bien dire que les contenus diffusés en ligne sont sans cesse susceptibles d’être modifiés, altérés ou même supprimés : ils nous est tous arrivé au moins une fois de cliquer sur un “lien mort”, par exemple. Dans le domaine littéraire, cette instabilité ou fragilité technique redouble d’ailleurs celle des contenus publiés : sur le web, les écrivains et écrivaines se servent en effet de leur blogue ou de leur site pour diffuser des brouillons, des versions inachevées ou partielles d’un récit, chapitre par chapitre.
+
+Sur les réseaux sociaux comme Twitter, ils se lancent dans des expériences exigeantes d’écriture “en direct”, donnant quotidiennement rendez-vous à leurs lecteurs - abonnés pour livrer les fragments d’un récit en construction. Pour le lecteur, l’occasion est enfin donnée d’assister à l’élaboration progressive d’un texte, et de voir les coulisses du travail littéraire. Le processus d’écriture se révèle, comme jamais, en train de se faire.
+
+Ces chantiers à ciel ouvert que sont les blogues et les réseaux sociaux transgressent certains concepts encore très forts dans l’imaginaire littéraire et éditorial, à commencer par l’auteur et l’oeuvre. Là où le livre imprimé constituait le résultat final et très élaboré d’un travail de longue haleine, mené sur plusieurs années, mais dont rien ne filtrait, le web donne enfin à voir le travail d’écriture en amont. La conception même de l’oeuvre littéraire s’en trouve changée. Non seulement l’instabilité et le caractère inachevé du texte ne sont plus tabous.
+
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -462,6 +475,12 @@ Pour François Bon en effet, “tout chantier d’écriture s’insère d’abor
 
 
 ===
+Certains écrivains mettent en scène, dans ce qui devient parfois un véritable méta-récit, l’élaboration du texte. Dans les chantiers littéraires en ligne, l’écriture est ainsi transformée en une performance.
+
+
+Cette écriture-performance, François Bon l’a mise en pratique avec Fragments du dedans - un livre publié chez Grasset, mais dont le “chantier” a d’abord été publié en ligne.
+
+Pour François Bon en effet, “tout chantier d’écriture s’insère d’abord sur le site. Et puis vient un moment où le livre prend le relais, exige d’autres outils, d’autres reprises et approches.” Le web-chantier ne se conçoit donc pas comme un “concurrent” du livre, mais comme une expérience alternative, autonome, qui servira de pierre d’assise à la constitution de celui-ci. Ce que François Bon publie en ligne, c’est bien cette performance qu’est l’écriture - “non pas le livre, mais ce pré-travail sur le web, l’étape embryonnaire aux 2/3 de la constitution du livre, en l’état”.
 
 Évidemment, il n’est pas toujours aisé pour les éditeurs de comprendre ce genre de démarche… Beaucoup d’entre eux demandent en effet aux écrivains d’effacer les traces des chantiers en ligne, de peur que les lecteurs ne voient pas bien l’intérêt d’acheter un livre dont une part du contenu est disponible gratuitement sur le web. C’est bien mal comprendre ce qui se joue fondamentalement ici : car pour le lecteur, justement, ce sont deux expériences de lecture bien différentes ! L’une, sur le web, consiste à suivre une performance d’écriture et un récit discontinu - il faut en effet patienter entre les publications, et le sens du texte semble toujours en suspens. L’autre expérience, à travers le livre, consiste à lire un récit linéaire, dont la clôture balise par ailleurs un horizon d’attente bien différent. Comme avec Les Fleurs du mal de Baudelaire, le texte se révèle donc “nombreux” depuis ses racines en ligne jusqu’au livre imprimé. Et le dispositif éditorial, ici, ne doit pas être pensé du point de vue des contenus, mais bien depuis celui de l’expérience de lecture.
 
@@ -478,6 +497,7 @@ Pour François Bon en effet, “tout chantier d’écriture s’insère d’abor
 ===
 
 À première vue, ces chantiers littéraires en ligne pourraient passer pour une étape transitoire vers l’imprimé, dont l’autorité et la stabilité resteraient indétrônable. Le bon vieux livre papier viendrait clore un chantier numérique dont il serait la finalité. Ce serait là bien mal connaître François Bon qui, en 2010, s’est lancé dans un travail un peu fou de récriture en ligne de son second roman, Limite. Travail “fou” car François Bon à dû retaper tout son texte à la main, puisqu’il n’existait pas de copie originale numérique de cet ouvrage paru en 1985 chez Minuit. En d’autres termes, l’auteur a procédé à contre-courant de ce que propose le modèle éditorial traditionnel, en “réouvrant” le chantier d’un livre publié 25 ans plus tôt…
+
 Écrit dans les années 1980, alors que François Bon était encore un “jeune” auteur méconnu, Limite était épuisé depuis déjà bien longtemps et l’éditeur, Minuit, n’avait pas le projet de le rééditer.
 
 
@@ -519,6 +539,7 @@ Par ailleurs, en choisissant de ne pas produire un livre numérique (epub), mais
 ===
 
 Mais surtout, au fur et à mesure qu’il se prête à cet exercice de dactylographie à première vue bien mécanique, l’écrivain redécouvre son propre texte et entame la construction d’un métarécit à caractère autobiographique, établissant des ponts entre la fiction (Limite) et un récit rétrospectif sur son parcours d’écrivain.
+
 En republiant en ligne Limite, François Bon réouvre donc le chantier du roman, pour en créer une version augmentée qui explore les potentialités du texte au-delà de toute exigence de stabilité et de clôture. Dans sa forme imprimée, Limite, tel que publié chez Minuit, aura été un moment du texte - mais pas le seul !
 
 
@@ -930,22 +951,8 @@ Ici, le calcul de modularité nous donne une partition en une dizaine de "commun
 ### Alors... qu'est-ce que, et pourquoi Instin ?
 
 ===
+Reprenons donc la question ontologique initiale: qu'est-ce qu'Instin ?
 
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-<!-- .slide: data-background-image="img/00-schema1-01floucinetique-2.jpg" data-background-size="contain" -->
-
-## GI : cas d'école d'une littérature éditorialisée
-
-* Instin est une forme d'éditorialisation dont l'espace de publication est un espace public
-
-source image: _Instin, plans de coupe, vues générales._ sur remue.net
-
-<!-- .element: class="source" -->
-
-===
-Reprenons donc la question ontologique initiale: qu'est-ce qu'Instin ? Ce nous a d'abord frappé - et ce qui a d'ailleurs guidé notre collecte - c'est l'incroyable pouvoir de propagation d'Instin, qui se répand comme une traînée de poudre. Pourquoi Instin fonctionne-t-il aussi bien - pourquoi fédère-t-il autant - comment a-t-il réussi à soulever une telle armée de contributeurs ?
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/editionInstin.jpg" data-background-size="contain" -->
