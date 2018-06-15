@@ -258,10 +258,10 @@ Ainsi posée, cette définition reste un peu floue, en fait on peut la préciser
 <!-- .slide: data-background-image="img/twitterEdito.png" -->
 <!-- .slide: class="hover"-->
 
-### 3 aspects implicites de l'éditorialisation (le cas de Twitter):
-* Technologique : aspect prescriptif de l'environnement technologique (Twitter et ses 140/280 caractères)
+### 3 aspects implicites de l'éditorialisation :
+* Technologique : un environnement prescriptif (Twitter et ses 140/280 caractères)
 * Culturel : Twitter n'a pas inventé la forme courte (maxime, Haiku, poésie...)
-* Pratique : le pouvoir des usagers
+* Pratique : le pouvoir des usagers (invention du #)
 * Bref, une dynamique stygmergique (A/R)
 
 ===
@@ -855,7 +855,7 @@ Notre démarche d'archivage du Général Instin s'inscrit complètement dans cet
 <!-- .slide: data-background-image="img/archive.png" -->
 <!-- .slide: class="hover"-->
 
-### Éditorialiser l'archive GI
+### Objectif : éditorialiser l'archive GI
 
 Double dynamique :
   * ouverture et continuité : rendre l'archive publique et appropriable
@@ -1050,9 +1050,11 @@ On voit bien là une résistance active à toute forme d'autorité.
 Lionel Ruffel a proposé le terme de "littérature brouhaha" pour qualifier ce passage d'un imaginaire du littéraire centré sur le livre comme objet-support, à un imaginaire du littéraire centré sur une action et une pratique : la publication.
 [CITER]
 
-<!-- .slide: data-background-image="img/StLouisNavire.JPEG" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/StLouisNavire.JPEG" -->
+
 
 ### La redéfinition de la frontière imaginaire-réel
 
@@ -1093,12 +1095,11 @@ Une chose est sûre : nous nourrissons la bête qui est en train de nous dévore
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/iLoveInstin.jpg" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
+
 
 
 ### Merci !
 
 
-<!-- .element: style="font-size:1.4rem" -->
 
 ![CC-BY-SA](http://i.creativecommons.org/l/by-sa/4.0/88x31.png) <!-- .element: class="logo" -->
