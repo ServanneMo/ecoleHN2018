@@ -555,7 +555,7 @@ En republiant en ligne Limite, François Bon réouvre donc le chantier du roman,
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/generalinstinVitrail.jpg" -->
 
-## Le corpus fantôme du Généaral Instin : les études littéraires à l'ère numérique
+## Le corpus fantôme du Général Instin : les études littéraires à l'ère numérique
 
 ===
 
